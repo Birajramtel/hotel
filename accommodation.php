@@ -93,7 +93,7 @@
                 the resort. Spread over an expansive area of over 20,000sq.ft. of total space, living here can give you
                 experience of home in the hills.</strong>
         </p>
-        <div class="row ml-1">
+        <div class="row ml-1 d-flex justify-content-center">
             <div class="card mb-6 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
