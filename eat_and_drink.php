@@ -102,7 +102,7 @@
             </div>
             <div class="col-md-6 d-sm-none d-md-block">
                 <h2 class="Header_2"> <strong><b>Visit us to eat and Drink Fresh food</b></strong></h2>
-                <p class="paragraph_align">
+                <p class="para_align">
                     <strong>
                         At Naava, we serve you high quality food with variety and fresh local ingredients.
                         We serve multi-cuisine food menu with authentic Thakali meal set, Nepali food,
