@@ -101,7 +101,6 @@
                     <div class="form-group input-group-lg mb-2 d-sm-block d-md-none">
                         <textarea class="form-control" rows="5" id="Description" placeholder="Description"></textarea>
                     </div>
-
                     <button style="font-size:18px" class="btn btn-colour-1 btn-sm col-12"> Send <i class="fa fa-send-o"></i></button>
                 </div>
             </div>
@@ -109,15 +108,15 @@
     </div>
     <div class="container">
         <div class="row mt-5 mb-2">
-            <div class="col-md-4 flex-fill">
+            <div class="col-md-4 ">
                 <i class="fa fa-envelope" style="font-size:15px"></i>
-                <h6><strong>Email</strong></h6>
+                <h6 class=""><strong>Email</strong></h6>
             </div>
-            <div class="col-md-4 flex-fill">
+            <div class="col-md-4 ">
                 <i class="fas fa-phone-alt" style="font-size:15px"></i>
                 <h6><strong>Phone</strong></h6>
             </div>
-            <div class="col-md-4 flex-fill">
+            <div class="col-md-4 ">
                 <i class="fas fa-map-marker-alt" style="font-size:15px"></i>
                 <h6><strong>Location</strong></h6>
             </div>
@@ -189,7 +188,7 @@
                             <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">example@naava.com</span>
                         </div>
                         <div class="single-cta">
-                            <i class="fas fa-phone"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
+                            <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
                         </div>
                         <div class="single-cta">
                             <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Main Str Nepal</span>
