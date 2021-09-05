@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <title>Hello, world!</title>
+    <title>Naava Hotel</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/style.css">
@@ -110,12 +110,12 @@
                 <div class="col-md-6 col-sm-12">
                     <h6 class="Header_6"> <strong>ABOUT US</strong></h6>
                     <h2 class="Header_2"> <strong><b>Best Location for Best Experience </b></strong></h2>
-                    <p>
+                    <p class="para_align">
                         <strong>Situated a mere 12.5 kilometers away from Kathmandu,Naava offers you a quick escape
                             from the hustle and bustle of the city and allows you to immerse into Shivapuri’s natural beauty.
                         </strong>
                     </p>
-                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from
+                    <p class="para_align">Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from
                         your daily affairs or someone seeking adventure or insight into Nepal’s diverse flora and fauna.
                     </p>
                     <button class="btn btn-lg btn-colour-1 float-end">Read More</button>
@@ -203,7 +203,7 @@
                         <img src="img/Bishnudwaar.png" class="card-img-top" alt="Bishnudwaar">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Bird Watching</h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Shivapuri has played a vital role in bird conservation and tourism.
                                 886 species of birds have been recorded in Nepal, which are about 9% of
                                 the total bird species found worldwide. Among them, 42 species are globally
@@ -219,7 +219,7 @@
                         <img src="img/Teen Chuli.png" class="card-img-top" alt="Teen Chuli">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Hike and Jungle Safari </h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Your perfect adventure guide.
                                 Available hiking routes:
                             </p>
@@ -231,7 +231,7 @@
                         <img src="img/Day Package - Picnic.png" class="card-img-top" alt="Day Package - Picnic">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Day Package - Picnic </h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Picnics are perfect means of getaway from the urban hustle and daily grind.
                                 At Naava, you can book a picnic spot and spend time with your family. We
                                 have the capacity of managing picnic for 100 participants and have variety
@@ -245,7 +245,7 @@
                         <img src="img/Meeting and Seminar.png" class="card-img-top" alt="Meeting and Seminar">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Meeting and Semina</h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Imagine holding a most productive workshop or a seminar, or even just
                                 a brainstorming session, in a fresh, natural environment that's so
                                 conveniently located, you'll appreciate how much time is saved in
@@ -259,13 +259,14 @@
                 </div>
             </div>
         </div>
-        <!-- Highlights Session Closed -->
-        <!-- <a> </a>
-        <a></a>
-        <a></a>
-        <a></a> -->
+        <!-- Highlight session Closed -->
+
 
         <!-- Photo Session Opened -->
+        <div class="container">
+            <h6 class="Header_6"><strong>PHOTOS</strong></h6>
+            <h2 class="Header_2 col-lg-8 col-sm-12"><strong><b>See our latest photos From restaurant and hotel</b></strong></h2>
+        </div>
         <div class="owl-carousel owl-theme">
             <div class="item">
                 <img src="img/Table_final.png" class="float-right" alt="Table Final">
@@ -286,7 +287,7 @@
     <footer class="footer-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-                <div class="col-md-3 col-sm-6 col-xm-12 ">
+                <div class="col-md-3 col-sm-6 col-xm-12  mt-3">
                     <img src="img/Naava PP.png" alt="Logo">
                     <p class="text-white">Our hotel is an image of quality and profesionalism combined with hard work and precision.
                         You can expect only the best services from our staff.
@@ -298,7 +299,7 @@
                         <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xm-12">
+                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                     <h2 class="text-white">Useful Links</h2>
                     <ul>
                         <li><a href="#">Blog</a></li>
@@ -307,7 +308,7 @@
                         <li><a href="#">Testimonials</a></li>
                     </ul>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xm-12">
+                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                     <h2 class="text-white">Privacy</h2>
                     <ul>
                         <li><a href="#">Blog</a></li>
@@ -316,21 +317,28 @@
                         <li><a href="#">Testimonials</a></li>
                     </ul>
                 </div>
-                <div class="col-md-3 col-sm-6 col-xm-12">
+                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                     <h2 class="text-white">Contact</h2>
-                    <ul>
-                        <div class="footer-social-icon">
-                            <a href="#">
-                                <i class="fab fa-facebook-f facebook-bg"></i>&nbsp; example@naava.com
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-facebook-f facebook-bg"></i>&nbsp;+0 320 422 4254
-                            </a>
-                            <a href="#">
-                                <i class="fab fa-facebook-f facebook-bg"></i>&nbsp;Main Str Nepal
-                            </a>
+                    <div class="footer-social-icon">
+                        <div class="single-cta">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <div class="cta-text">
+                                <p>example@naava.com</p>
+                            </div>
                         </div>
-                    </ul>
+                        <div class="single-cta">
+                            <i class="fas fa-phone"></i>
+                            <div class="cta-text">
+                                <p>+0 320 422 4254</p>
+                            </div>
+                        </div>
+                        <div class="single-cta">
+                            <i class="far fa-envelope-open"></i>
+                            <div class="cta-text">
+                                <p>Main Str Nepal</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="row mt-5">
