@@ -66,13 +66,12 @@
         <div class="about_image">
             <img src="img/Hotel_front_about.png" class="d-block w-100" alt=" Hotel Front">
         </div>
-        <div class="about_breadcrumb">
+        <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>About Naava</b></strong> </h2>
             <ul class="breadcrumb pl-1">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About Us</a></li>
+                <li><a href="index.php">Home </a></li>
+                <li><a href="about_us.php"> About Us</a></li>
             </ul>
-
         </div>
     </div>
     <!-- Header Closed -->
