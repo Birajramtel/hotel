@@ -106,20 +106,20 @@
                 </div>
             </div>
         </form>
-        <div class="container">
-            <div class="row mt-5 mb-2">
-                <div class="col-3">
-                    <i class="fa fa-envelope" style="font-size:15px"></i>
-                    <h6><strong>Email</strong></h6>
-                </div>
-                <div class="col-3">
-                    <i class="fas fa-phone-alt" style="font-size:15px"></i>
-                    <h6><strong>Phone</strong></h6>
-                </div>
-                <div class="col-3">
-                    <i class="fas fa-map-marker-alt" style="font-size:15px"></i>
-                    <h6><strong>Location</strong></h6>
-                </div>
+    </div>
+    <div class="container">
+        <div class="row mt-5 mb-2">
+            <div class="col-md-4 flex-fill">
+                <i class="fa fa-envelope" style="font-size:15px"></i>
+                <h6><strong>Email</strong></h6>
+            </div>
+            <div class="col-md-4 flex-fill">
+                <i class="fas fa-phone-alt" style="font-size:15px"></i>
+                <h6><strong>Phone</strong></h6>
+            </div>
+            <div class="col-md-4 flex-fill">
+                <i class="fas fa-map-marker-alt" style="font-size:15px"></i>
+                <h6><strong>Location</strong></h6>
             </div>
         </div>
     </div>
