@@ -47,6 +47,19 @@ body {
 .para_align {
   text-align: justify;
 }
+
+.carousel-caption {
+  position: absolute;
+  z-index: 10;
+  text-align: left;
+  float: left;
+  top: 20%;
+  left: 9%;
+}
+.carousel-caption .header_1 {
+  font-size: 62px;
+  font-weight: bold;
+}
 .package_session {
   background-image: url("../img/Hotel_Front.png");
   background-size: cover;
@@ -75,39 +88,13 @@ body {
   border-bottom: 1px solid #373636;
 }
 .single-cta i {
-  color: #ff5e14;
-  font-size: 30px;
+  color: #dda140;
+  font-size: 20px;
 }
+
 .footer-content {
   position: relative;
   z-index: 2;
-}
-.footer-pattern img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 330px;
-  background-size: cover;
-  background-position: 100% 100%;
-}
-.footer-logo {
-  margin-bottom: 30px;
-}
-.footer-logo img {
-  max-width: 200px;
-}
-.footer-text p {
-  margin-bottom: 14px;
-  font-size: 14px;
-  color: #7e7e7e;
-  line-height: 28px;
-}
-.footer-social-icon span {
-  color: #fff;
-  display: block;
-  font-size: 20px;
-  font-weight: 700;
-  font-family: "Poppins", sans-serif;
 }
 .footer-social-icon a {
   color: #fff;
@@ -141,4 +128,21 @@ body {
   position: absolute;
   bottom: 2px;
   left: 7%;
+}
+
+/* For Footer link */
+a.footer_link {
+  color: #dda140;
+  background-color: transparent;
+  text-decoration: none;
+}
+.footer_link:hover {
+  color: #fff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.footer_link:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
