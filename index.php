@@ -110,12 +110,12 @@
                 <div class="col-md-6 col-sm-12">
                     <h6 class="Header_6"> <strong>ABOUT US</strong></h6>
                     <h2 class="Header_2"> <strong><b>Best Location for Best Experience </b></strong></h2>
-                    <p>
+                    <p class="para_align">
                         <strong>Situated a mere 12.5 kilometers away from Kathmandu,Naava offers you a quick escape
                             from the hustle and bustle of the city and allows you to immerse into Shivapuri’s natural beauty.
                         </strong>
                     </p>
-                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from
+                    <p class="para_align">Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from
                         your daily affairs or someone seeking adventure or insight into Nepal’s diverse flora and fauna.
                     </p>
                     <button class="btn btn-lg btn-colour-1 float-end">Read More</button>
@@ -203,7 +203,7 @@
                         <img src="img/Bishnudwaar.png" class="card-img-top" alt="Bishnudwaar">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Bird Watching</h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Shivapuri has played a vital role in bird conservation and tourism.
                                 886 species of birds have been recorded in Nepal, which are about 9% of
                                 the total bird species found worldwide. Among them, 42 species are globally
@@ -219,7 +219,7 @@
                         <img src="img/Teen Chuli.png" class="card-img-top" alt="Teen Chuli">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Hike and Jungle Safari </h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Your perfect adventure guide.
                                 Available hiking routes:
                             </p>
@@ -231,7 +231,7 @@
                         <img src="img/Day Package - Picnic.png" class="card-img-top" alt="Day Package - Picnic">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Day Package - Picnic </h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Picnics are perfect means of getaway from the urban hustle and daily grind.
                                 At Naava, you can book a picnic spot and spend time with your family. We
                                 have the capacity of managing picnic for 100 participants and have variety
@@ -245,7 +245,7 @@
                         <img src="img/Meeting and Seminar.png" class="card-img-top" alt="Meeting and Seminar">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Meeting and Semina</h5>
-                            <p class="card-text">
+                            <p class="card-text para_align">
                                 Imagine holding a most productive workshop or a seminar, or even just
                                 a brainstorming session, in a fresh, natural environment that's so
                                 conveniently located, you'll appreciate how much time is saved in
