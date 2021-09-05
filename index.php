@@ -70,24 +70,33 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Slider_image_1.png" class="d-block w-100" alt="">
+                <img src="img/Slider_image_1.png" class="d-block w-100" alt=" Hotel View">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>First slide label</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
+                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
+                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                        someone seeking a break from your daily affairs or someone seeking adventure
+                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
+                    </p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_image_2.png" class="d-block w-100" alt="...">
+                <img src="img/Slider_image_2.png" class="d-block w-100" alt="Hotel View">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Second slide label</h5>
-                    <p>Some representative placeholder content for the second slide.</p>
+                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
+                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                        someone seeking a break from your daily affairs or someone seeking adventure
+                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
+                    </p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_image_3.png" class="d-block w-100" alt="...">
+                <img src="img/Slider_image_3.png" class="d-block w-100" alt="Hotel View">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Some representative placeholder content for the third slide.</p>
+                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
+                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                        someone seeking a break from your daily affairs or someone seeking adventure
+                        or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
+                    </p>
                 </div>
             </div>
         </div>
@@ -137,10 +146,10 @@
 
         <!-- Package Image Opened -->
         <div class="package_session">
-            <div class="container mt-mb-5">
-                <h6 class="Header_6"><strong>Packages</strong></h6>
+            <div class="container mt-5">
+                <h6 class="Header_6 pt-5"><strong>Packages</strong></h6>
                 <h2 class="Header_2_white"><strong><b>We bring you better<br>among the best.</b></strong></h2>
-                <div class="row">
+                <div class="row pb-5">
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
                             <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
@@ -189,12 +198,12 @@
         <!-- Highlights Session Opened -->
         <div class="container mt-5 mb-5">
             <div class="row">
-                <div class="col-md-6 col-sm-12 col-xm-8">
+                <div class="col-md-6 col-sm-12 col-xm-8 ">
                     <h6 class="Header_6"><strong>HIGHLIGHTS</strong> </h6>
                     <h2 class="Header_2"> <strong><b>What you get <br>In a nutshell</b> </strong></h2>
                 </div>
-                <div class="col-md-6 col-sm-12 col-xm-4 md-mt-5">
-                    <button class="btn col-5 btn-colour-1 btn-lg float-md-end ">Explore</button>
+                <div class="col-md-6 col-sm-12 col-xm-4 mt-auto mb-auto">
+                    <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 g-4">
@@ -287,13 +296,13 @@
     <footer class="footer-section">
         <div class="container">
             <div class="row d-flex justify-content-center">
-                <div class="col-md-3 col-sm-6 col-xm-12  mt-3">
-                    <img src="img/Naava PP.png" alt="Logo">
+                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
+                    <!-- <img src="img/Naava PP.png" alt="Logo"> -->
+                    <h2 class="text-white">Naava Resort & Retreat</h2>
                     <p class="text-white">Our hotel is an image of quality and profesionalism combined with hard work and precision.
                         You can expect only the best services from our staff.
                     </p>
-                    <div class="footer-social-icon">
-                        <span class="text-white">Follow us</span>
+                    <div class="footer-social-icon mt-2">
                         <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
                         <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
                         <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
@@ -301,42 +310,33 @@
                 </div>
                 <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                     <h2 class="text-white">Useful Links</h2>
-                    <ul>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Rooms</a></li>
-                        <li><a href="#">Gift Card</a></li>
-                        <li><a href="#">Testimonials</a></li>
+                    <ul style="list-style-type:none;">
+                        <li><a class="footer_link" href="#">Blog</a></li>
+                        <li><a class="footer_link" href="#">Rooms</a></li>
+                        <li><a class="footer_link" href="#">Gift Card</a></li>
+                        <li><a class="footer_link" href="#">Testimonials</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                     <h2 class="text-white">Privacy</h2>
-                    <ul>
-                        <li><a href="#">Blog</a></li>
-                        <li><a href="#">Rooms</a></li>
-                        <li><a href="#">Gift Card</a></li>
-                        <li><a href="#">Testimonials</a></li>
+                    <ul style="list-style-type: none;">
+                        <li><a class="footer_link" href="#">Career</a></li>
+                        <li><a class="footer_link" href="#">About Us</a></li>
+                        <li><a class="footer_link" href="#">Contact us</a></li>
+                        <li><a class="footer_link" href="#">Services</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                     <h2 class="text-white">Contact</h2>
                     <div class="footer-social-icon">
                         <div class="single-cta">
-                            <i class="fas fa-map-marker-alt"></i>
-                            <div class="cta-text">
-                                <p>example@naava.com</p>
-                            </div>
+                            <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">example@naava.com</span>
                         </div>
                         <div class="single-cta">
-                            <i class="fas fa-phone"></i>
-                            <div class="cta-text">
-                                <p>+0 320 422 4254</p>
-                            </div>
+                            <i class="fas fa-phone"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
                         </div>
                         <div class="single-cta">
-                            <i class="far fa-envelope-open"></i>
-                            <div class="cta-text">
-                                <p>Main Str Nepal</p>
-                            </div>
+                            <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Main Str Nepal</span>
                         </div>
                     </div>
                 </div>
