@@ -184,7 +184,7 @@
                             <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">example@naava.com</span>
                         </div>
                         <div class="single-cta">
-                            <i class="fas fa-phone"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
+                            <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
                         </div>
                         <div class="single-cta">
                             <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Main Str Nepal</span>
