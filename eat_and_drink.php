@@ -90,10 +90,10 @@
                 </p>
                 <button class="btn  btn-lg btn-colour-1 mb-2">Learn More</button>
             </div>
-            <div class="col-md-3 col-sm-6 pb-2 d-xm-none d-block ">
+            <div class="col-md-3 col-sm-6 pb-2 d-block d-sm-none">
                 <img src="img/eat_and_drink_small_1.png" class="img-fluid w-100" alt="Foods and Drinks">
             </div>
-            <div class="col-md-3 col-sm-6 pb-2 d-none d-xm-block">
+            <div class="col-md-3 col-sm-6 pb-2 d-none d-sm-block">
                 <img src="img/eat_and_drink_1.png" class="img-fluid " alt="Foods and Drinks">
             </div>
             <div class="col-md-3 col-sm-6 pr-0 pl-0 ">
