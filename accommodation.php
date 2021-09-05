@@ -79,7 +79,7 @@
     <!-- Accommodation Content Session Opened -->
     <div class="container mt-5 ">
         <h2 class="ml-4"> <strong>Best Place <br> Best View.</strong></h2>
-        <p class="paragraph_align ml-4"><strong>
+        <p class="para_align ml-4"><strong>
                 Rooms surrounded by the natural vegetation of Shivapuri National Park in one elevation and overlooking
                 Kathmandu valley on the other, Naava is a place where you can have quiet, peaceful and private resting.
                 Our Standard Rooms have a large bed, private bathroom, shower products, LED TV with satellite channels,
@@ -167,11 +167,10 @@
                 </div>
             </div>
         </div>
-        <p class="pt-5 ml-4">
+        <p class="para_align pt-5 ml-4">
             Feel the morning mist pass by your windows, so close you can almost reach out the clouds. We have well-appointed
             standard rooms each with proper services. What better place to refresh yourself after a long day and looking for
             a perfect getaway.
-            <br>
             Our Standard Rooms have a large bed, private bathroom, shower products, LED TV with satellite channels, Tea / Coffee
             makers, hot water and free high-speed wireless internet
         </p>
