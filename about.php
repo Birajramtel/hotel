@@ -82,12 +82,12 @@
             <div class="col-md-6 col-sm-12">
                 <h6 class="Header_6"><strong>ABOUT US</strong></h6>
                 <h2 class="Header_2"><strong><b> Best Location for Best Experience</b></strong></h2>
-                <p>
+                <p class="para_align">
                     <strong> Situated a mere 12.5 kilometers away from Kathmandu, Naava offers you a quick escape
                         from the hustle and bustle of the city and allows you to immerse into Shivapuri’s natural beauty.
                     </strong>
                 </p>
-                <p>
+                <p class="para_align">
                     Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from your daily
                     affairs or someone seeking adventure or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for
                     you. With friendly and hospitable staff, quality food and spacious, modern architectural rooms, you can
