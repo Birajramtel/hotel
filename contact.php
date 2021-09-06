@@ -106,19 +106,16 @@
             </div>
         </form>
     </div>
-    <div class="container">
+    <div class="container pb-2">
         <div class="row mt-5 mb-2">
             <div class="col-md-4 ">
-                <i class="fa fa-envelope" style="font-size:15px"></i>
-                <h6 class=""><strong>Email</strong></h6>
+                <i class="far fa-envelope-open"></i>&nbsp;<span class="">example@naava.com</span>
             </div>
             <div class="col-md-4 ">
-                <i class="fas fa-phone-alt" style="font-size:15px"></i>
-                <h6><strong>Phone</strong></h6>
+                <i class="fas fa-phone-alt"></i>&nbsp;<span class="">+0 320 422 4254</span>
             </div>
             <div class="col-md-4 ">
-                <i class="fas fa-map-marker-alt" style="font-size:15px"></i>
-                <h6><strong>Location</strong></h6>
+                <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="">Main Str Nepal</span>
             </div>
         </div>
     </div>
