@@ -133,7 +133,7 @@
                 </div>
             </div>
         </div>
-        <div class="card mb-3">
+        <div class="card mb-3 mb-5">
             <div class="row g-0 pb-2">
                 <h6 class="Header_6 text-center pt-2"><strong><b>PACKAGE 4</b></strong></h6>
                 <div class="col-md-4">
@@ -153,9 +153,35 @@
                 </div>
             </div>
         </div>
-        
     </div>
     <!-- Package Content Session Closed -->
+    <!-- Form Opened -->    
+    <div class="container form-container mb-3">
+        <div class="div2">
+            <form class="d-flex" action="">
+                <div class="form-group">
+                    <label for="date"></label>
+                    <input type="number" class="form-control" id="date" placeholder="Check in Date">
+                </div>
+                <div class="form-group">
+                    <label for="date"></label>
+                    <input type="number" class="form-control" id="number"  placeholder="Checkout Date">
+                </div>
+                <select id="room" name="room">
+                    <option value="room_1">Room</option>
+                    <option value="room_1">Room 1</option>
+                    <option value="room_2">Room 2</option>
+                    <option value="room_3">Room 3</option>
+                </select>
+                <div class="form-group">
+                    <label for="email"></label>
+                    <input type="email" class="form-control" id="email" placeholder="Email">
+                </div>
+                <button type="submit" class="btn btn-colour-1">Submit</button>
+            </form>
+        </div>
+    </div> 
+    <!-- Form Closed -->
 
 
     <!-- Photo Session Opened -->
