@@ -111,10 +111,39 @@
     </div>
     <!-- Header Closed -->
 
+    <!-- Form Opened -->    
+    <div class="container d-none d-md-block">
+        <form class="bg-secondary p-3 mt-3" action="">
+            <div class="row">
+                <div class="col-md-5 mt-2">
+                    <label for="Check In" class="text-white">Check In</label>
+                    <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
+                </div>
+                <div class="col-md-5 mt-2">
+                    <label for="Check Out" class="text-white">Check Out</label>
+                    <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
+                </div>
+                <div class="col-md-2 mt-2">
+                    <label for=""></label>
+                    <select id="room" name="room">
+                        <option value="room_0">Room</option>
+                        <option value="room_1">Room 1</option>
+                        <option value="room_2">Room 2</option>
+                        <option value="room_3">Room 3</option>
+                    </select>
+                </div>
+                <div class="d-flex justify-content-center pt-3">
+                    <button type="submit" class="btn btn-colour-1">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- Form Closed -->
+
     <!-- Section Opened -->
     <section>
         <!-- About Section Opened -->
-        <div class="container mt-5">
+        <div class="container mt-3">
             <div class="row pt-5 pb-5">
                 <div class="col-md-6 col-sm-12">
                     <h6 class="Header_6"> <strong>ABOUT US</strong></h6>
