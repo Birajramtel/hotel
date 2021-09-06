@@ -154,7 +154,7 @@
                         You can expect only the best services from our staff.
                     </p>
                     <div class="footer-social-icon mt-2">
-                        <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
+                        <a href="https://www.facebook.com/Naava-Resort-Retreat-100547551927011/"><i class="fab fa-facebook-f facebook-bg"></i></a>
                         <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
                         <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
                     </div>
@@ -163,7 +163,7 @@
                     <h2 class="text-white">Useful Links</h2>
                     <ul style="list-style-type:none;">
                         <li><a class="footer_link" href="#">Blog</a></li>
-                        <li><a class="footer_link" href="#">Rooms</a></li>
+                        <li><a class="footer_link" href="package.php">Rooms</a></li>
                         <li><a class="footer_link" href="#">Gift Card</a></li>
                         <li><a class="footer_link" href="#">Testimonials</a></li>
                     </ul>
@@ -172,9 +172,9 @@
                     <h2 class="text-white">Privacy</h2>
                     <ul style="list-style-type: none;">
                         <li><a class="footer_link" href="#">Career</a></li>
-                        <li><a class="footer_link" href="#">About Us</a></li>
-                        <li><a class="footer_link" href="#">Contact us</a></li>
-                        <li><a class="footer_link" href="#">Services</a></li>
+                        <li><a class="footer_link" href="about.php">About Us</a></li>
+                        <li><a class="footer_link" href="contact.php">Contact us</a></li>
+                        <li><a class="footer_link" href="eat_and_drink.php">Services</a></li>
                     </ul>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
