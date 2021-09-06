@@ -232,7 +232,9 @@
                     <h2 class="Header_2"> <strong><b>What you get <br>In a nutshell</b> </strong></h2>
                 </div>
                 <div class="col-md-6 col-sm-12 col-xm-4 mt-auto mb-auto">
-                    <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
+                    <a href="explore_shivapuri.php">
+                        <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
+                    </a>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 g-4">

@@ -109,13 +109,13 @@
     
     <div class="container footer-social-icon pb-2">
         <div class="row mt-5 mb-2">
-            <div class="col-md-4 col-sm-4 single-cta">
-                <i class="far fa-envelope-open"></i>&nbsp;<span><strong>example@naava.com</strong></span>
+            <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
+                <i class="far fa-envelope-open"></i>&nbsp;<span><strong class="mt-1">example@naava.com</strong></span>
             </div>
-            <div class="col-md-4 col-sm-4 single-cta">
+            <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
                 <i class="fas fa-phone-alt"></i>&nbsp;<span><strong>+0 320 422 4254</strong></span>
             </div>
-            <div class="col-md-4 col-sm-4 single-cta">
+            <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
                 <i class="fas fa-map-marker-alt"></i>&nbsp;<span><strong>Main Str Nepal</strong></span>
             </div>
         </div>

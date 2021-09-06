@@ -70,7 +70,7 @@
             <h2 class="header_2 text-white"><strong><b>Accommodation</b></strong> </h2>
             <ul class="breadcrumb pl-1">
                 <li><a href="index.php">Home </a></li>
-                <li><a href="accommodation.php">Accommodation</a></li>
+                <li><a href="accommodation.php">Room</a></li>
             </ul>
         </div>
     </div>
@@ -78,105 +78,36 @@
 
     <!-- Accommodation Content Session Opened -->
     <div class="container mt-5 ">
-        <h2 class="ml-4"> <strong>Best Place <br> Best View.</strong></h2>
-        <p class="para_align ml-4"><strong>
-                Rooms surrounded by the natural vegetation of Shivapuri National Park in one elevation and overlooking
-                Kathmandu valley on the other, Naava is a place where you can have quiet, peaceful and private resting.
-                Our Standard Rooms have a large bed, private bathroom, shower products, LED TV with satellite channels,
-                Tea / Coffee makers, hot water and free high-speed wireless internet. The rooms that have veranda where
-                you can relax and have pleasure that will you feel at home, away from home. <br>
-                The spectacular weather with a sip of fresh air and a breezy gulp of air inside make you pristine where
-                you can relax in the garden and hear chirping of birds and other natural habitat in the national park.
-                Shivapuri is a naturally and ecologically rich destination for tourists seeking to escape the hustle and
-                bustle of Kathmandu city and an ideal stop-off point for hiking to the national part. One can indulge in
-                all that nature has to offer as you experience the captivating sunrise views in the tranquil ambience of
-                the resort. Spread over an expansive area of over 20,000sq.ft. of total space, living here can give you
-                experience of home in the hills.</strong>
-        </p>
-        <div class="row ml-1 d-flex justify-content-center">
-            <div class="card mb-6 m-2" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-4">
-                        <img src="img/Accommodation room 1.png" alt="Accommodation Rooms" class="img-fluid rounded-start">
-                    </div>
-                    <div class="col-md-7">
-                        <div class="card-body">
-                            <h6 class="Header_6 card-title"><strong>BIG</strong> </h6>
-                            <h6 class="card-title"><strong>Spacious Room</strong></h6>
-                            <p class="card-text">The most spacious room you will ever see in our hotel. Equipped with span and warm beds</p>
-                        </div>
-                    </div>
-                    <div class="col-md-1 bg-secondary">
-                        <a href="package.php">
-                            <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block' style='font-size:28px'></i>
-                        </a>
-                    </div>
-                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"><a href="package.php" class="text-white"> Book Now</a></button>
+        <h2 class="ml-4"> <strong>Our Rooms available</strong></h2>
+        <div class="card-group">
+            <div class="card p-3 pb-2">
+                <img src="img/Accommodation room 1.png" class="card-img-top" alt="Room">
+                <div class="card-body">
+                    <h5 class="card-title">B&B</h5>
+                    <h5><strong>Spacious Room</strong></h5>
+                    <p class="card-text">The most spacious room you will ever see in our hotel. Equipped with span and warm beds.</p>
                 </div>
             </div>
-            <div class="card mb-6 m-2" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-4">
-                        <img src="img/Accommodation room 1.png" alt="Accommodation Rooms" class="img-fluid rounded-start">
-                    </div>
-                    <div class="col-md-7">
-                        <div class="card-body">
-                            <h6 class="Header_6 card-title"><strong>SMALL</strong> </h6>
-                            <h6 class="card-title"><strong>Small Cheap Room</strong></h6>
-                            <p class="card-text">Smallest and the most economic room in our hotel. Save an extra buck for your holyday</p>
-                        </div>
-                    </div>
-                    <div class="col-md-1 bg-secondary">
-                        <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block' style='font-size:28px'></i>
-                    </div>
-                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"> Book Now</button>
+            <div class="card p-3 pb-2">
+                <img src="img/Accommodation room 2.png" class="card-img-top" alt="Room">
+                <div class="card-body">
+                    <h5 class="card-title">Small</h5>
+                    <h5><strong>Small Cheap Room</strong></h5>
+                    <p class="card-text">Smallest and the most economic room in our hotel. Save an extra buck for your holyday.</p>
                 </div>
+                
             </div>
-            <div class="card mb-6 m-2" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-4">
-                        <img src="img/Accommodation room 1.png" alt="Accommodation Rooms" class="img-fluid rounded-start">
-                    </div>
-                    <div class="col-md-7">
-                        <div class="card-body">
-                            <h6 class="Header_6 card-title"><strong>PREMIUM</strong> </h6>
-                            <h6 class="card-title"><strong>Big Room</strong></h6>
-                            <p class="card-text">Biggest room in our hotel fully equipped with Wi-fi and hot coffee</p>
-                        </div>
-                    </div>
-                    <div class="col-md-1 bg-secondary">
-                        <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block' style='font-size:28px'></i>
-                    </div>
-                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"> Book Now</button>
-                </div>
-            </div>
-            <div class="card mb-6 m-2" style="max-width: 540px;">
-                <div class="row g-0">
-                    <div class="col-md-4">
-                        <img src="img/Accommodation room 1.png" alt="Accommodation Rooms" class="img-fluid rounded-start">
-                    </div>
-                    <div class="col-md-7">
-                        <div class="card-body">
-                            <h6 class="Header_6 card-title"><strong>EXPENSIVE</strong> </h6>
-                            <h6 class="card-title"><strong>Expensive Luxury Room</strong></h6>
-                            <p class="card-text">The most expensive room available for milionars and very rich people</p>
-                        </div>
-                    </div>
-                    <div class="col-md-1 bg-secondary">
-                        <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block pt-5' style='font-size:28px'></i>
-                    </div>
-                    <button class="btn btn-lg btn-colour-1 d-sm-block d-md-none text-white mb-2 "> Book Now</button>
+            <div class="card p-3 pb-2">
+                <img src="img/Accommodation room 3.png" class="card-img-top" alt="Room">
+                <div class="card-body">
+                    <h5 class="card-title">PREMIUM</h5>
+                    <h5><strong>Big Room</strong></h5>
+                    <p class="card-text">Biggest room in our hotel fully equipped with Wi-fi and hot coffee</p>
                 </div>
             </div>
         </div>
-        <p class="para_align pt-5 ml-4">
-            Feel the morning mist pass by your windows, so close you can almost reach out the clouds. We have well-appointed
-            standard rooms each with proper services. What better place to refresh yourself after a long day and looking for
-            a perfect getaway.
-            Our Standard Rooms have a large bed, private bathroom, shower products, LED TV with satellite channels, Tea / Coffee
-            makers, hot water and free high-speed wireless internet
-        </p>
     </div>
+    
 
     <!-- Accommodation Content Session Closed -->
 
