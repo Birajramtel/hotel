@@ -46,13 +46,13 @@
                         <a class="nav-link active" href="eat_and_drink.php">Eat and Drink</a>
                     </li>
                     <li class="nav-item ">
-                        <a class="nav-link active" href="#">Packages</a>
+                        <a class="nav-link active" href="package.php">Packages</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Highlights</a>
+                        <a class="nav-link active" href="highlight.php">Highlights</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Gallery</a>
+                        <a class="nav-link active" href="gallery.php">Gallery</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="contact.php">Contact Us</a>
