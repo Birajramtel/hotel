@@ -52,7 +52,7 @@
                         <a class="nav-link text-white" href="highlight.php">Highlights</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="g.p">Gallery</a>
+                        <a class="nav-link text-white" href="gallery.php">Gallery</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-white" href="contact.php">Contact Us</a>
@@ -78,7 +78,7 @@
 
     <!-- Package Content Session Opened -->
     <div class="container mt-5 ">
-        <h2 class="Header_2 ml-4 col-6"><strong><b>We have the packages that fit you the best</b></strong></h2>
+        <h2 class="Header_2 ml-4 col-md-6"><strong><b>We have the packages that fit you the best</b></strong></h2>
         <div class="card mb-3">
             <div class="row g-0 pb-2">
                 <h6 class="Header_6 text-center pt-2"><strong><b>PACKAGE 1</b></strong></h6>
@@ -156,31 +156,32 @@
     </div>
     <!-- Package Content Session Closed -->
     <!-- Form Opened -->    
-    <div class="container form-container mb-3">
-        <div class="div2">
-            <form class="d-flex" action="">
-                <div class="form-group">
-                    <label for="date"></label>
-                    <input type="number" class="form-control" id="date" placeholder="Check in Date">
+    <div class="container">
+        <form class="bg-dark p-3 mb-5" action="">
+            <div class="row">
+                <div class="col-md-5 mt-2">
+                    <label for="Check In" class="text-white">Check In</label>
+                    <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
                 </div>
-                <div class="form-group">
-                    <label for="date"></label>
-                    <input type="number" class="form-control" id="number"  placeholder="Checkout Date">
+                <div class="col-md-5 mt-2">
+                    <label for="Check Out" class="text-white">Check Out</label>
+                    <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
                 </div>
-                <select id="room" name="room">
-                    <option value="room_1">Room</option>
-                    <option value="room_1">Room 1</option>
-                    <option value="room_2">Room 2</option>
-                    <option value="room_3">Room 3</option>
-                </select>
-                <div class="form-group">
-                    <label for="email"></label>
-                    <input type="email" class="form-control" id="email" placeholder="Email">
+                <div class="col-md-2 mt-2">
+                    <label for=""></label>
+                    <select id="room" name="room">
+                        <option value="room_0">Room</option>
+                        <option value="room_1">Room 1</option>
+                        <option value="room_2">Room 2</option>
+                        <option value="room_3">Room 3</option>
+                    </select>
                 </div>
-                <button type="submit" class="btn btn-colour-1">Submit</button>
-            </form>
-        </div>
-    </div> 
+                <div class="d-flex justify-content-center pt-3">
+                    <button type="submit" class="btn btn-colour-1">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
     <!-- Form Closed -->
 
 
