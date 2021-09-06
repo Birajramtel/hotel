@@ -37,7 +37,7 @@
                         <a class="nav-link active" href="about.php">About Naava</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Explore Shivapuri</a>
+                        <a class="nav-link active" href="explore_shivapuri.php">Explore Shivapuri</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link active" href="accommodation.php">Accommodation</a>
