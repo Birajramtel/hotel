@@ -31,31 +31,31 @@
                 <div class="mx-auto"></div>
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" href="index.php">Home</a>
+                        <a class="nav-link text-white" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="about.php">About Naava</a>
+                        <a class="nav-link text-white" href="about.php">About Naava</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="explore_shivapuri.php">Explore Shivapuri</a>
+                        <a class="nav-link text-white" href="explore_shivapuri.php">Explore Shivapuri</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="accommodation.php">Accommodation</a>
+                        <a class="nav-link text-white" href="accommodation.php">Accommodation</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="eat_and_drink.php">Eat and Drink</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link active" href="#">Packages</a>
+                        <a class="nav-link active" href="eat_and_drink.php"><u>Eat and Drink</u></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Highlights</a>
+                        <a class="nav-link text-white" href="package.php">Packages</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="#">Gallery</a>
+                        <a class="nav-link text-white" href="highlight.php">Highlights</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="contact.php">Contact Us</a>
+                        <a class="nav-link text-white" href="gallery.php">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="contact.php">Contact Us</a>
                     </li>
                 </ul>
             </div>
@@ -100,7 +100,7 @@
                 <img src="img/eat_and_drink_2.png" class="pb-4 img-fluid" alt="Fish Items ">
                 <img src="img/eat_and_drink_3.png" class="img-fluid" alt="Fish Items">
             </div>
-            <div class="col-md-6 d-sm-none d-md-block">
+            <div class="col-md-6 d-none d-md-block">
                 <h2 class="Header_2"> <strong><b>Visit us to eat and Drink Fresh food</b></strong></h2>
                 <p class="para_align">
                     <strong>
