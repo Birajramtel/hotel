@@ -106,7 +106,7 @@
             </div>
         </form>
     </div>
-    
+
     <div class="container footer-social-icon pb-2">
         <div class="row mt-5 mb-2">
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">

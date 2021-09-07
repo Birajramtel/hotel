@@ -100,6 +100,7 @@
                 </div>
             </div>
         </div>
+
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
@@ -111,9 +112,9 @@
     </div>
     <!-- Header Closed -->
 
-    <!-- Form Opened -->    
-    <div class="container d-none d-md-block">
-        <form class="bg-secondary p-3 mt-3" action="">
+    <!-- Form Opened -->
+    <div class="container d-none d-md-block Form_bg">
+        <form class="form_bg p-3 mt-3" action="">
             <div class="row">
                 <div class="col-md-5 mt-2">
                     <label for="Check In" class="text-white">Check In</label>
@@ -133,7 +134,7 @@
                     </select>
                 </div>
                 <div class="d-flex justify-content-center pt-3">
-                    <button type="submit" class="btn btn-colour-1">Submit</button>
+                    <button type="submit" class="btn btn-light">Submit</button>
                 </div>
             </div>
         </form>
@@ -153,10 +154,16 @@
                             from the hustle and bustle of the city and allows you to immerse into Shivapuri’s natural beauty.
                         </strong>
                     </p>
-                    <p class="para_align">Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from
-                        your daily affairs or someone seeking adventure or insight into Nepal’s diverse flora and fauna.
+                    <p class="para_align">Naava is an amalgamation of comfort, beauty and adventure: whether you are someone
+                        seeking a break from your daily affairs or someone seeking adventure or insight into Nepal’s diverse
+                        flora and fauna, Naava is the perfect place for you. With friendly and hospitable staff, quality food
+                        and spacious, modern architectural rooms, you can experience a new home, away from home. With an eagle
+                        eye view of Kathmandu Valley, beautiful Langtan Himalayas, lush rhododendron forests as well as prestigious
+                        religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers you an experience unlike any other.
                     </p>
-                    <button class="btn btn-lg btn-colour-1 float-end">Read More</button>
+                    <a href="about.php">
+                        <button class="btn btn-lg btn-colour-1 float-end">Read More</button>
+                    </a>
                 </div>
                 <div class="col-md-6 col-sm-12 m-0">
                     <div class="row">
@@ -185,7 +192,7 @@
                             <div class="card-body">
                                 <h5 class="card-title"><strong> B&B </strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                <a href="#" class="btn btn-colour-1 float-end">Take this</a>
+                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -195,7 +202,7 @@
                             <div class="card-body">
                                 <h5 class="card-title"><strong> Full Board </strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                <a href="#" class="btn btn-colour-1 float-end">Take this</a>
+                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -204,8 +211,8 @@
                             <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
                             <div class="card-body">
                                 <h5 class="card-title"><strong>Full Board Premium</strong></h5>
-                                <p class="card-text">This includes accommodation for 2 and served with continental premium breakfast.</p>
-                                <a href="#" class="btn btn-colour-1 float-end">Take this</a>
+                                <p class="card-text">This includes accommodation for 2 and served with continental premium breakfast in the morning.</p>
+                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -215,7 +222,7 @@
                             <div class="card-body">
                                 <h5 class="card-title"><strong> Half Board </strong></h5>
                                 <p class="card-text ">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                <a href="#" class="btn btn-colour-1 float-end">Take this</a>
+                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>
@@ -238,7 +245,7 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-md-2 g-4">
-                <div class="col">
+                <div class="col-md-6">
                     <div class="card">
                         <img src="img/Bishnudwaar.png" class="card-img-top" alt="Bishnudwaar">
                         <div class="card-body">
@@ -247,26 +254,12 @@
                                 Shivapuri has played a vital role in bird conservation and tourism.
                                 886 species of birds have been recorded in Nepal, which are about 9% of
                                 the total bird species found worldwide. Among them, 42 species are globally
-                                threatened and 35 globally near threatened. Among them 311 bird species,
-                                including 117 migratory birds have been found in Shivapuri, making it an
-                                ornithologist’s paradise.
+                                threatened and 35 globally near threatened.
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col">
-                    <div class="card">
-                        <img src="img/Teen Chuli.png" class="card-img-top" alt="Teen Chuli">
-                        <div class="card-body">
-                            <h5 class="card-title Header_2">Hike and Jungle Safari </h5>
-                            <p class="card-text para_align">
-                                Your perfect adventure guide.
-                                Available hiking routes:
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
+                <div class="col-md-6">
                     <div class="card">
                         <img src="img/Day Package - Picnic.png" class="card-img-top" alt="Day Package - Picnic">
                         <div class="card-body">
@@ -280,7 +273,48 @@
                         </div>
                     </div>
                 </div>
-                <div class="col">
+                <div class="col-md-6 ">
+                    <div class="card">
+                        <img src="img/Teen Chuli.png" class="card-img-top" alt="Teen Chuli">
+                        <div class="card-body">
+                            <h5 class="card-title Header_2">Hike and Jungle Safari </h5>
+                            <p class="card-text para_align pb-0">
+                                Your perfect adventure guide.
+                                Available hiking routes:</p>
+                            <ul class="pt-0 mt-0">
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12">
+                                        <li>
+                                            Trail Code 101 – Naagi Gumba
+                                        </li>
+                                        <li>
+                                            Trail 2 Code 102 – Bishnudwar
+                                        </li>
+                                        <li>
+                                            Trail Code 103 – Baghdwar
+                                        </li>
+                                        <li>
+                                            Trail Code 104 – Shivapuri Peak
+                                        </li>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12">
+                                        <li>
+                                            Trail Code 105 – Sundarijal
+                                        </li>
+                                        <li>
+                                            Trail Code 106 – Chisapani (Hike)
+                                        </li>
+                                        <li>
+                                            Trail Code 107 – Chisapani (Safari)
+                                        </li>
+                                    </div>
+                                </div>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
                     <div class="card">
                         <img src="img/Meeting and Seminar.png" class="card-img-top" alt="Meeting and Seminar">
                         <div class="card-body">

@@ -105,7 +105,7 @@
                 <div class="col-md-8">
                     <div class="card-body">
                         <h5 class="card-title"><b>Full Board</b></h5>
-                        <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast in the morning, 
+                        <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast in the morning,
                             Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meals.</p>
                         <div class="text-left mt-5">
                             <button type="button" class="btn btn-lg btn-colour-1 col">Book Now</button>
@@ -123,8 +123,8 @@
                 <div class="col-md-8">
                     <div class="card-body">
                         <h5 class="card-title"><b>Full Board Premium</b></h5>
-                        <p class="card-text para_align">This includes accommodation for 2 and served with continental premium breakfast in the morning, 
-                            Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meal. 
+                        <p class="card-text para_align">This includes accommodation for 2 and served with continental premium breakfast in the morning,
+                            Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meal.
                             In addition to this six item with three vegetarian and three non-vegetarian snacks will be served in the evening.</p>
                         <div class="text-left mt-5">
                             <button type="button" class="btn btn-lg btn-colour-1 col">Book Now</button>
@@ -142,9 +142,9 @@
                 <div class="col-md-8">
                     <div class="card-body">
                         <h5 class="card-title"><b>Half Board</b></h5>
-                        <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast 
-                            and one time Thakali meal set. This package is appropriate for those who arrive at the resort in the 
-                            evening and enjoy the evening at the resort and the next morning have a walk around the nearby place 
+                        <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast
+                            and one time Thakali meal set. This package is appropriate for those who arrive at the resort in the
+                            evening and enjoy the evening at the resort and the next morning have a walk around the nearby place
                             of the national park or the monasteries nearby, have breakfast and depart.</p>
                         <div class="text-left mt-5">
                             <button type="button" class="btn btn-lg btn-colour-1 col">Book Now</button>
@@ -155,7 +155,7 @@
         </div>
     </div>
     <!-- Package Content Session Closed -->
-    <!-- Form Opened -->    
+    <!-- Form Opened -->
     <div class="container">
         <form class="bg-dark p-3 mb-5" action="">
             <div class="row">

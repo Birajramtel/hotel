@@ -196,38 +196,38 @@
     <script src="jquery-1.9.1.min.js"></script>
 </body>
 
-    <!-- Include js plugin -->
-    <script src="assets/owl-carousel/owl.carousel.js"></script>
-    <script>
-        var nav = document.querySelector("nav");
+<!-- Include js plugin -->
+<script src="assets/owl-carousel/owl.carousel.js"></script>
+<script>
+    var nav = document.querySelector("nav");
 
-        window.addEventListener("scroll", function() {
-            if (window.pageYOffset > 100) {
-                nav.classList.add("bg-dark", "shadow");
-            } else {
-                nav.classList.remove("bg-dark", "shadow");
-            }
-        });
-    </script>
+    window.addEventListener("scroll", function() {
+        if (window.pageYOffset > 100) {
+            nav.classList.add("bg-dark", "shadow");
+        } else {
+            nav.classList.remove("bg-dark", "shadow");
+        }
+    });
+</script>
 
-    <script>
-        $(' .owl-carousel').owlCarousel({
-            loop: true,
-            margin: 0,
-            nav: false,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 3
-                },
-                1000: {
-                    items: 5
-                }
+<script>
+    $(' .owl-carousel').owlCarousel({
+        loop: true,
+        margin: 0,
+        nav: false,
+        responsive: {
+            0: {
+                items: 1
+            },
+            600: {
+                items: 3
+            },
+            1000: {
+                items: 5
             }
-        })
-    </script>
+        }
+    })
+</script>
 
 </body>
 

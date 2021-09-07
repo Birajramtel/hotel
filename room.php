@@ -77,40 +77,68 @@
     <!-- Header Closed -->
 
     <!-- Accommodation Content Session Opened -->
-    <div class="container mt-5 ">
+    <div class="container mt-5 mb-5">
         <h2 class="ml-4"> <strong>Our Rooms available</strong></h2>
         <div class="card-group">
             <div class="card p-3 pb-2">
                 <img src="img/Accommodation room 1.png" class="card-img-top" alt="Room">
                 <div class="card-body">
-                    <h5 class="card-title">B&B</h5>
+                    <h6 class="card-title Header_6">B&B</h6>
                     <h5><strong>Spacious Room</strong></h5>
                     <p class="card-text">The most spacious room you will ever see in our hotel. Equipped with span and warm beds.</p>
                 </div>
+                <button class="btn btn-colour-1"> Book Now</button>
             </div>
             <div class="card p-3 pb-2">
                 <img src="img/Accommodation room 2.png" class="card-img-top" alt="Room">
                 <div class="card-body">
-                    <h5 class="card-title">Small</h5>
+                    <h6 class="card-title Header_6">Small</h6>
                     <h5><strong>Small Cheap Room</strong></h5>
                     <p class="card-text">Smallest and the most economic room in our hotel. Save an extra buck for your holyday.</p>
                 </div>
-                
+                <button class="btn btn-colour-1"> Book Now</button>
             </div>
             <div class="card p-3 pb-2">
                 <img src="img/Accommodation room 3.png" class="card-img-top" alt="Room">
                 <div class="card-body">
-                    <h5 class="card-title">PREMIUM</h5>
+                    <h6 class="card-title Header_6">PREMIUM</h6>
                     <h5><strong>Big Room</strong></h5>
                     <p class="card-text">Biggest room in our hotel fully equipped with Wi-fi and hot coffee</p>
                 </div>
+                <button class="btn btn-colour-1"> Book Now</button>
             </div>
         </div>
     </div>
-    
-
     <!-- Accommodation Content Session Closed -->
 
+    <!-- Form Opened -->
+    <div class="container d-none d-md-block Form_bg">
+        <form class="form_bg p-3 mt-3" action="">
+            <div class="row">
+                <div class="col-md-5 mt-2">
+                    <label for="Check In" class="text-white">Check In</label>
+                    <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
+                </div>
+                <div class="col-md-5 mt-2">
+                    <label for="Check Out" class="text-white">Check Out</label>
+                    <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
+                </div>
+                <div class="col-md-2 mt-2">
+                    <label for=""></label>
+                    <select id="room" name="room">
+                        <option value="room_0">Room</option>
+                        <option value="room_1">Room 1</option>
+                        <option value="room_2">Room 2</option>
+                        <option value="room_3">Room 3</option>
+                    </select>
+                </div>
+                <div class="d-flex justify-content-center pt-3">
+                    <button type="submit" class="btn btn-light">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- Form Closed -->
 
     <!-- Photo Session Opened -->
     <div class="container">
