@@ -91,24 +91,32 @@
                     Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from your daily
                     affairs or someone seeking adventure or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for
                     you. With friendly and hospitable staff, quality food and spacious, modern architectural rooms, you can
-                    experience a new home, away from home. Hikers and nature lovers can hike all the way up to Shivapuri hill
-                    or book a jeep safari with us to explore the beautiful, dense forests at Shivapuri.
+                    experience a new home, away from home. 
                 </p>
+                <div class="collapse multi-collapse" id="multiCollapseExample2">
+                    <p class="para_align">
+                        Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
+                        dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
+                        forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
+                        you an experience unlike any other. 
+                    </p>
+                </div>
+                <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
             <div class="col-md-6 col-sm-12 pb-2">
                 <img src="img/Hotel_Location 3.png" class="img-fluid" alt="Hotel Location" width="100%">
             </div>
         </div>
-
     </div>
-    <div class="about_hotel">
-        <img src="img/Seminar Hall from Back side 1.png" alt=" Seminar Hall" class="w-100 img-fluid">
+    <div class="about_hotel mb-0">
+        <img src="img/Seminar Hall from Back side 1.png" alt="Seminar Hall" class="w-100 img-fluid">
     </div>
-    <div class="container mt-5 testimonial">
+    <div class="container testimonial">
         <div class="row mt-5 bg_test">
             <div class="col-md-7 col-sm-12 mt-5 testimonials">
                 <h6 class="Header_6"><strong>TESTIMONIALS</strong></h6>
                 <h2 class="Header_2"> <strong><b> We trust our customers and they trusts us too</b></strong></h2>
+                <img src="img/Naava PP.png" alt="">
                 <p>
                     I am very glad I had the opportinuty to visit this hotel. The stuff is very friendly
                     and I will definetly visit the hotel again next year.

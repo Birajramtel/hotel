@@ -78,8 +78,8 @@
 
     <!-- Explore Shivapuri Content Session Opened -->
     <div class="container mt-5 ">
-        <h2 class="Header_2"><strong><b>EXPLORE SHIVAPURI</b></strong></h2>
-        <p class="para_align ml-4">
+        <h2 class="Header_2"><strong>EXPLORE SHIVAPURI</strong></h2>
+        <p class="para_align ml-4 mb-2">
             At an elevation of 8963 ft on the Northern side of Kathmandu, Shivapuri is the second largest hill
             surrounding the valley. Only an hour away from Kathmandu, it is a popular destination for hikers,
             mountain bikers, researchers, bird watchers and pilgrims.
@@ -87,7 +87,10 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-6 mb-2">
+                <div class="col-md-6 pb-1 d-block d-md-none">
+                    <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+                </div>
                 <h6 class="Header_6"> <strong><b> Natural Beauty</b> </strong> </h6>
                 <p class="para_align">
                     Shivapuri National Park serves as the ideal destination for nature lovers, without having to go very
@@ -98,10 +101,10 @@
                     Small waterfalls and rivulets add to the beauty of the hill.
                 </p>
             </div>
-            <div class="col-md-6 pb-5">
-                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+            <div class="col-md-6">
+                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
             </div>
-            <div class="col-md-6 pb-5">
+            <div class="col-md-6">
                 <img src="img/Teen Chuli.png" alt="Teen Chuli" class="img-fluid">
             </div>
             <div class="col-md-6">
@@ -120,6 +123,9 @@
                 </ul>
             </div>
             <div class="col-md-6">
+                <div class="col-md-6 pb-1 d-block d-md-none">
+                    <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+                </div>
                 <h6 class="Header_6"><strong><b>Watershed Value</b></strong></h6>
                 <p class="para_align">
                     Shivapuri is the prime source of drinking water for Kathmandu valley. Small rivers and streams
@@ -127,10 +133,10 @@
                     Syalmati, Bishnumati and their tributaries. Drinking water, irrigation, holy bathing are the major
                     uses of the rivers.
             </div>
-            <div class="col-md-6 pb-5">
-                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+            <div class="col-md-6">
+                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
             </div>
-            <div class="col-md-6 pb-5">
+            <div class="col-md-6">
                 <img src="img/Teen Chuli.png" alt="Teen Chuli" class="img-fluid">
             </div>
             <div class="col-md-6">
@@ -143,6 +149,9 @@
                 </p>
             </div>
             <div class="col-md-6">
+                <div class="col-md-6 pb-1 d-block d-md-none">
+                    <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+                </div>
                 <h6 class="Header_6"><strong><b>Research and study</b></strong></h6>
                 <p class="para_align">
                     Shivapuri National Park has been the destination for researchers and nature enthusiasts. Several studies
@@ -158,10 +167,10 @@
                     Nagarjun national park.
 
             </div>
-            <div class="col-md-6 pb-5">
-                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+            <div class="col-md-6">
+                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
             </div>
-            <div class="col-md-6 pb-5">
+            <div class="col-md-6">
                 <img src="img/Teen Chuli.png" alt="Teen Chuli" class="img-fluid">
             </div>
             <div class="col-md-6">

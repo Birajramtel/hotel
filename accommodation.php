@@ -106,12 +106,14 @@
                             <p class="card-text">The most spacious room you will ever see in our hotel. Equipped with span and warm beds</p>
                         </div>
                     </div>
-                    <div class="col-md-1 bg-secondary">
-                        <a href="package.php">
-                            <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block' style='font-size:28px'></i>
-                        </a>
+                    <div class="col-md-1 background_content">
+                        <div class="d-flex justify-content-center">
+                            <a href="room.php">
+                                <i class='fas fa-arrow-circle-right float-end pt-5 mt-3 d-none d-md-block' style='font-size:28px'></i>
+                            </a>
+                        </div>
                     </div>
-                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"><a href="package.php" class="text-white"> Book Now</a></button>
+                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"><a href="room.php" class="text-white"> Book Now</a></button>
                 </div>
             </div>
             <div class="card mb-6 m-2" style="max-width: 540px;">
@@ -126,10 +128,14 @@
                             <p class="card-text">Smallest and the most economic room in our hotel. Save an extra buck for your holyday</p>
                         </div>
                     </div>
-                    <div class="col-md-1 bg-secondary">
-                        <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block' style='font-size:28px'></i>
+                    <div class="col-md-1 background_content">
+                        <div class="d-flex justify-content-center">
+                            <a href="room.php">
+                                <i class='fas fa-arrow-circle-right float-end pt-5 mt-3 d-none d-md-block' style='font-size:28px'></i>
+                            </a>
+                        </div>
                     </div>
-                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"> Book Now</button>
+                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"><a href="room.php" class="text-white"> Book Now</a></button>
                 </div>
             </div>
             <div class="card mb-6 m-2" style="max-width: 540px;">
@@ -144,10 +150,14 @@
                             <p class="card-text">Biggest room in our hotel fully equipped with Wi-fi and hot coffee</p>
                         </div>
                     </div>
-                    <div class="col-md-1 bg-secondary">
-                        <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block' style='font-size:28px'></i>
+                    <div class="col-md-1 background_content">
+                        <div class="d-flex justify-content-center">
+                            <a href="room.php">
+                                <i class='fas fa-arrow-circle-right float-end pt-5 mt-3 d-none d-md-block' style='font-size:28px'></i>
+                            </a>
+                        </div>
                     </div>
-                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"> Book Now</button>
+                    <button class="btn btn-lg d-sm-block d-md-none btn-colour-1 text-white mb-2"><a href="room.php" class="text-white"> Book Now</a></button>
                 </div>
             </div>
             <div class="card mb-6 m-2" style="max-width: 540px;">
@@ -162,10 +172,14 @@
                             <p class="card-text">The most expensive room available for milionars and very rich people</p>
                         </div>
                     </div>
-                    <div class="col-md-1 bg-secondary">
-                        <i class='fas fa-arrow-circle-right pt-5 float-end d-none d-md-block pt-5' style='font-size:28px'></i>
+                    <div class="col-md-1 background_content">
+                        <div class="d-flex justify-content-center">
+                            <a href="room.php">
+                                <i class='fas fa-arrow-circle-right float-end pt-5 mt-3 d-none d-md-block' style='font-size:28px'></i>
+                            </a>
+                        </div>
                     </div>
-                    <button class="btn btn-lg btn-colour-1 d-sm-block d-md-none text-white mb-2 "> Book Now</button>
+                    <button class="btn btn-lg btn-colour-1 d-sm-block d-md-none text-white mb-2 "><a href="room.php" class="text-white"> Book Now</a></button>
                 </div>
             </div>
         </div>
@@ -222,7 +236,7 @@
                     <h2 class="text-white">Useful Links</h2>
                     <ul style="list-style-type:none;">
                         <li><a class="footer_link" href="#">Blog</a></li>
-                        <li><a class="footer_link" href="package.php">Rooms</a></li>
+                        <li><a class="footer_link" href="room.php">Rooms</a></li>
                         <li><a class="footer_link" href="#">Gift Card</a></li>
                         <li><a class="footer_link" href="#">Testimonials</a></li>
                     </ul>

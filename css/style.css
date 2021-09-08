@@ -9,6 +9,11 @@ body {
   color: #000;
 }
 
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .show > .nav-link {
+  color: #dda140;
+}
+
 /* Header 1 Text */
 .header_1 {
   font-size: 62px;
@@ -18,6 +23,9 @@ body {
 .Header_2 {
   font-size: 42px;
 }
+.Header_2 strong {
+  font-weight: 600;
+}
 .Header_2_white {
   font-size: 42px;
   color: #fff;
@@ -25,6 +33,7 @@ body {
 /* Header 6 Text */
 .Header_6 {
   color: #dda140;
+  font-size: 16px;
 }
 
 .btn-colour-1 {
@@ -55,6 +64,16 @@ body {
   float: left;
   top: 20%;
   left: 9%;
+}
+
+.Form_bg_index {
+  position: absolute;
+  z-index: 10;
+  text-align: left;
+  float: left;
+  bottom: -15%;
+  left: 7%;
+  background: #61483a;
 }
 .carousel-caption .header_1 {
   font-size: 62px;
@@ -225,4 +244,12 @@ select {
 
 .Form_bg .form_bg {
   background: #61483a;
+}
+/* Accommodation Page button */
+.fa-arrow-circle-right:before {
+  content: "\f0a9";
+  color: #fff;
+}
+.background_content {
+  background-color: #61483a;
 }

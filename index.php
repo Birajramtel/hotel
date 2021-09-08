@@ -21,7 +21,7 @@
     <!-- NavBar started -->
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
         <div class="container">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.php">
                 <img src="img/Naava PP.png" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -113,7 +113,7 @@
     <!-- Header Closed -->
 
     <!-- Form Opened -->
-    <div class="container d-none d-md-block Form_bg">
+    <div class="container d-none d-md-block Form_bg_index">
         <form class="form_bg p-3 mt-3" action="">
             <div class="row">
                 <div class="col-md-5 mt-2">
@@ -145,7 +145,7 @@
     <section>
         <!-- About Section Opened -->
         <div class="container mt-3">
-            <div class="row pt-5 pb-5">
+            <div class="row pt-5 pb-5 mt-5">
                 <div class="col-md-6 col-sm-12">
                     <h6 class="Header_6"> <strong>ABOUT US</strong></h6>
                     <h2 class="Header_2"> <strong><b>Best Location for Best Experience </b></strong></h2>
