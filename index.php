@@ -62,7 +62,7 @@
     <!-- Header Closed -->
 
     <!-- Form Opened -->
-    <div class="container d-none d-md-block Form_bg">
+    <div class="container Form_bg">
         <form class="form_bg p-3 mt-3" action="">
             <div class="row">
                 <div class="col-md-2 mt-2">
