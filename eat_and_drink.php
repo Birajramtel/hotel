@@ -109,7 +109,15 @@
                         Indian dishes, popular Chinese and Indian dishes with local and imported beverages.
                     </strong>
                 </p>
-                <button class="btn  btn-lg btn-colour-1">Learn More</button>
+                <div class="collapse multi-collapse" id="multiCollapseExample2">
+                    <p class="para_align">
+                        Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
+                        dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
+                        forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
+                        you an experience unlike any other. 
+                    </p>
+                </div>
+                <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
 
         </div>
@@ -118,8 +126,8 @@
     <div class="container mt-5 mb-5">
         <h6 class="Header_6"><strong>PHOTOS</strong></h6>
         <h2 class="Header_2 col-lg-6 col-sm-12"><strong><b>Explore our menu and eat what you want</b></strong></h2>
-        <div class="row ml-1 d-flex justify-content-center">
-            <div class="card mb-6 m-2" style="max-width: 540px;">
+        <div class="row ml-1">
+            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_2.png" alt="Eat and Drink" class="img-fluid rounded-start">
@@ -133,7 +141,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card mb-6 m-2" style="max-width: 540px;">
+            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_3.png" alt="Eat and Drink" class="img-fluid rounded-start">
@@ -147,7 +155,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card mb-6 m-2" style="max-width: 540px;">
+            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_2.png" alt="Eat and Drink" class="img-fluid rounded-start">
@@ -161,7 +169,7 @@
                     </div>
                 </div>
             </div>
-            <div class="card mb-6 m-2" style="max-width: 540px;">
+            <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
                         <img src="img/eat_and_drink_3.png" alt="Eat and Drink" class="img-fluid rounded-start">
@@ -175,7 +183,6 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
     <!-- Food Gallery Closed -->

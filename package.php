@@ -89,9 +89,15 @@
                     <div class="card-body">
                         <h5 class="card-title"><b>B&B</b></h5>
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast.</p>
-                        <div class="text-left mt-5">
-                            <button type="button" class="btn btn-lg btn-colour-1 col">Book Now</button>
+                        <div class="collapse multi-collapse" id="multiCollapseExample1">
+                            <p class="para_align">
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
+                                you an experience unlike any other. 
+                            </p>
                         </div>
+                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample1" aria-expanded="false" aria-controls="multiCollapseExample1">Read More</button>
                     </div>
                 </div>
             </div>
@@ -106,10 +112,17 @@
                     <div class="card-body">
                         <h5 class="card-title"><b>Full Board</b></h5>
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast in the morning,
-                            Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meals.</p>
-                        <div class="text-left mt-5">
-                            <button type="button" class="btn btn-lg btn-colour-1 col">Book Now</button>
+                            Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meals.
+                        </p>
+                        <div class="collapse multi-collapse" id="multiCollapseExample2">
+                            <p class="para_align">
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
+                                you an experience unlike any other. 
+                            </p>
                         </div>
+                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
                     </div>
                 </div>
             </div>
@@ -126,9 +139,15 @@
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental premium breakfast in the morning,
                             Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meal.
                             In addition to this six item with three vegetarian and three non-vegetarian snacks will be served in the evening.</p>
-                        <div class="text-left mt-5">
-                            <button type="button" class="btn btn-lg btn-colour-1 col">Book Now</button>
+                        <div class="collapse multi-collapse" id="multiCollapseExample3">
+                            <p class="para_align">
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
+                                you an experience unlike any other. 
+                            </p>
                         </div>
+                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample3" aria-expanded="false" aria-controls="multiCollapseExample3">Read More</button>
                     </div>
                 </div>
             </div>
@@ -146,9 +165,15 @@
                             and one time Thakali meal set. This package is appropriate for those who arrive at the resort in the
                             evening and enjoy the evening at the resort and the next morning have a walk around the nearby place
                             of the national park or the monasteries nearby, have breakfast and depart.</p>
-                        <div class="text-left mt-5">
-                            <button type="button" class="btn btn-lg btn-colour-1 col">Book Now</button>
+                        <div class="collapse multi-collapse" id="multiCollapseExample4">
+                            <p class="para_align">
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
+                                you an experience unlike any other. 
+                            </p>
                         </div>
+                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample4" aria-expanded="false" aria-controls="multiCollapseExample4">Read More</button>
                     </div>
                 </div>
             </div>
@@ -156,7 +181,7 @@
     </div>
     <!-- Package Content Session Closed -->
     <!-- Form Opened -->
-    <div class="container">
+    <!-- <div class="container">
         <form class="bg-dark p-3 mb-5" action="">
             <div class="row">
                 <div class="col-md-5 mt-2">
@@ -181,7 +206,7 @@
                 </div>
             </div>
         </form>
-    </div>
+    </div> -->
     <!-- Form Closed -->
 
 

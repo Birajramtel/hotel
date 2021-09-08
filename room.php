@@ -87,7 +87,7 @@
                     <h5><strong>Spacious Room</strong></h5>
                     <p class="card-text">The most spacious room you will ever see in our hotel. Equipped with span and warm beds.</p>
                 </div>
-                <button class="btn btn-colour-1 btn-lg">Book Now</button>
+                <button class="btn btn-colour-1">Book Now</button>
             </div>
             <div class="card p-3 pb-2">
                 <img src="img/Accommodation room 2.png" class="card-img-top" alt="Room">
@@ -96,7 +96,7 @@
                     <h5><strong>Small Cheap Room</strong></h5>
                     <p class="card-text">Smallest and the most economic room in our hotel. Save an extra buck for your holyday.</p>
                 </div>
-                <button class="btn btn-colour-1 btn-lg">Book Now</button>
+                <button class="btn btn-colour-1">Book Now</button>
             </div>
             <div class="card p-3 pb-2">
                 <img src="img/Accommodation room 4.png" class="card-img-top" alt="Room">
@@ -105,17 +105,17 @@
                     <h5><strong>Big Room</strong></h5>
                     <p class="card-text">Biggest room in our hotel fully equipped with Wi-fi and hot coffee</p>
                 </div>
-                <button class="btn btn-colour-1 btn-lg">Book Now</button>
+                <button class="btn btn-colour-1">Book Now</button>
             </div>
-            <div class="card p-3 pb-2">
+            <!-- <div class="card p-3 pb-2">
                 <img src="img/Accommodation room 3.png" class="card-img-top" alt="Room">
                 <div class="card-body">
                     <h6 class="card-title Header_6">PREMIUM</h6>
                     <h5><strong>Expensive Luxury Room</strong></h5>
                     <p class="card-text">The most expensive room available for milionars and very rich people</p>
                 </div>
-                <button class="btn btn-colour-1 btn-lg">Book Now</button>
-            </div>
+                <button class="btn btn-colour-1">Book Now</button>
+            </div> -->
         </div>
     </div>
     <!-- Accommodation Content Session Closed -->
@@ -134,15 +134,18 @@
                         <option value="room_4">EXPENCIVE</option>
                     </select>
                 </div>
-                <div class="col-md-5 mt-2">
+                <div class="col-md-3 mt-2">
                     <label for="Check In" class="text-white">Check In</label>
                     <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
                 </div>
-                <div class="col-md-5 mt-2">
+                <div class="col-md-3 mt-2">
                     <label for="Check Out" class="text-white">Check Out</label>
                     <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
                 </div>
-                
+                <div class="col-md-3 mt-2">
+                    <label for="Email" class="text-white">Email</label>
+                    <input type="email" class="form-control" placeholder="Email" aria-label="Email">
+                </div>
                 <div class="d-flex justify-content-center pt-3">
                     <button type="submit" class="btn btn-light">Submit</button>
                 </div>

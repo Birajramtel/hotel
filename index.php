@@ -113,25 +113,30 @@
     <!-- Header Closed -->
 
     <!-- Form Opened -->
-    <div class="container d-none d-md-block Form_bg_index">
+    <div class="container d-none d-md-block Form_bg">
         <form class="form_bg p-3 mt-3" action="">
             <div class="row">
-                <div class="col-md-5 mt-2">
+                <div class="col-md-2 mt-2">
+                    <label for="rooms"class="text-white" >Rooms</label>
+                    <select id="room" name="room">
+                        <option value="room_0">Rooms</option>
+                        <option value="room_1">B&B</option>
+                        <option value="room_2">SMALL</option>
+                        <option value="room_3">PREMIUM</option>
+                        <option value="room_4">EXPENCIVE</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mt-2">
                     <label for="Check In" class="text-white">Check In</label>
                     <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
                 </div>
-                <div class="col-md-5 mt-2">
+                <div class="col-md-3 mt-2">
                     <label for="Check Out" class="text-white">Check Out</label>
                     <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
                 </div>
-                <div class="col-md-2 mt-2">
-                    <label for=""></label>
-                    <select id="room" name="room">
-                        <option value="room_0">Room</option>
-                        <option value="room_1">Room 1</option>
-                        <option value="room_2">Room 2</option>
-                        <option value="room_3">Room 3</option>
-                    </select>
+                <div class="col-md-3 mt-2">
+                    <label for="Email" class="text-white">Email</label>
+                    <input type="email" class="form-control" placeholder="Email" aria-label="Email">
                 </div>
                 <div class="d-flex justify-content-center pt-3">
                     <button type="submit" class="btn btn-light">Submit</button>
