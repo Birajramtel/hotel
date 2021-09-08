@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
-<title>Naava Hotel</title>
-<?php include './include/head.php' ?>
+    <title>Naava Hotel</title>
+    <?php include './include/head.php' ?>
 </head>
 
 <body>
     <!-- Header Opened -->
     <!-- NavBar started -->
-        <?php include './include/header.php' ?>
+    <?php include './include/header.php' ?>
     <!-- Banner Image  -->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -66,7 +66,7 @@
         <form class="form_bg p-3 mt-3" action="">
             <div class="row">
                 <div class="col-md-2 mt-2">
-                    <label for="rooms"class="text-white" >Rooms</label>
+                    <label for="rooms" class="text-white">Rooms</label>
                     <select id="room" name="room">
                         <option value="room_0">Rooms</option>
                         <option value="room_1">B&B</option>
@@ -291,24 +291,7 @@
 
 
         <!-- Photo Session Opened -->
-        <div class="container">
-            <h6 class="Header_6"><strong>PHOTOS</strong></h6>
-            <h2 class="Header_2 col-lg-8 col-sm-12"><strong><b>See our latest photos From restaurant and hotel</b></strong></h2>
-        </div>
-        <div class="owl-carousel owl-theme">
-            <div class="item">
-                <img src="img/Table_final.png" class="float-right" alt="Table Final">
-            </div>
-            <div class="item">
-                <img src="img/Bishnudwaar_final.png" class="float-right" alt="Bishnudwaar Hiking">
-            </div>
-            <div class="item">
-                <img src="img/Bed_final.png" class="float-right" alt="Hotel Bed">
-            </div>
-            <div class="item">
-                <img src="img/Seminar_final.png" class="float-right" alt="Seminar Hall">
-            </div>
-        </div>
+        <?php include './include/carousel_footer.php' ?>
         <!-- Photo Session Closed -->
     </section>
     <!-- Footer Session Opened -->
@@ -337,24 +320,7 @@
     <!-- include scripts -->
     <?php include './include/script.php' ?>
 
-    <script>
-        $('.owl-carousel').owlCarousel({
-            loop: true,
-            margin: 0,
-            nav: false,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 3
-                },
-                1000: {
-                    items: 5
-                }
-            }
-        })
-    </script>
+    <?php include './include/carousel_footer_script.php' ?>
 
 </body>
 
