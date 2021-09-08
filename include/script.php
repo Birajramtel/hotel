@@ -1,7 +1,7 @@
 <script>
-    $(document).ready(function(){
+    $(document).ready(function() {
         var nav = document.querySelector("nav");
-       
+
         window.addEventListener("scroll", function() {
             if (window.pageYOffset > 100) {
                 nav.classList.add("bg-dark", "shadow");
@@ -10,8 +10,8 @@
             }
         });
 
-        $(".navbar-toggler").click(function(){
-                $("#bg_nav").toggleClass("bg-menu");
+        $(".navbar-toggler").click(function() {
+            $("#bg_nav").toggleClass("bg-menu");
         });
     })
 </script>
