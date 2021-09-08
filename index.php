@@ -2,65 +2,14 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <title>Naava Hotel</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="js/owl.carousel.js">
-    <link rel="stylesheet" href="js/owl.carousel.min.js">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+<title>Naava Hotel</title>
+<?php include './include/head.php' ?>
 </head>
 
 <body>
     <!-- Header Opened -->
     <!-- NavBar started -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
-        <div class="container">
-            <a class="navbar-brand" href="index.php">
-                <img src="img/Naava PP.png" alt="">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <div class="mx-auto"></div>
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link active" href="index.php"><u>Home</u></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="about.php">About Naava</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="explore_shivapuri.php">Explore Shivapuri</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="accommodation.php">Accommodation</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="eat_and_drink.php">Eat and Drink</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link text-white" href="package.php">Packages</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="highlight.php">Highlights</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="gallery.php">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="contact.php">Contact Us</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+        <?php include './include/header.php' ?>
     <!-- Banner Image  -->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
@@ -363,65 +312,7 @@
         <!-- Photo Session Closed -->
     </section>
     <!-- Footer Session Opened -->
-    <footer class="footer-section">
-        <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <!-- <img src="img/Naava PP.png" alt="Logo"> -->
-                    <h2 class="text-white">Naava Resort & Retreat</h2>
-                    <p class="text-white">Our hotel is an image of quality and profesionalism combined with hard work and precision.
-                        You can expect only the best services from our staff.
-                    </p>
-                    <div class="footer-social-icon mt-2">
-                        <a href="https://www.facebook.com/Naava-Resort-Retreat-100547551927011/"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                        <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-                        <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Useful Links</h2>
-                    <ul style="list-style-type:none;">
-                        <li><a class="footer_link" href="#">Blog</a></li>
-                        <li><a class="footer_link" href="package.php">Rooms</a></li>
-                        <li><a class="footer_link" href="#">Gift Card</a></li>
-                        <li><a class="footer_link" href="#">Testimonials</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Privacy</h2>
-                    <ul style="list-style-type: none;">
-                        <li><a class="footer_link" href="#">Career</a></li>
-                        <li><a class="footer_link" href="about.php">About Us</a></li>
-                        <li><a class="footer_link" href="contact.php">Contact us</a></li>
-                        <li><a class="footer_link" href="#">Services</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Contact</h2>
-                    <div class="footer-social-icon">
-                        <div class="single-cta">
-                            <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">example@naava.com</span>
-                        </div>
-                        <div class="single-cta">
-                            <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
-                        </div>
-                        <div class="single-cta">
-                            <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Main Str Nepal</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-6">
-                    <p class="text-white float-start">Copyright &copy; 2018, All Right Reserved SewaTech</p>
-                </div>
-                <div class="col-6">
-                    <a class="footer_link float-end" href="#">https://naavaresort.com.np</a>
-                </div>
-            </div>
-        </div>
-        </div>
-    </footer>
+    <?php include './include/footer.php' ?>
     <!-- Footer Session Closed -->
     <script src="js/owl.carousel.js"></script>
     <script src="js/owl.carousel.min.js"></script>
@@ -429,7 +320,7 @@
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
+d
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--
         <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
@@ -442,18 +333,10 @@
     <script src="jquery-1.9.1.min.js"></script>
 
     <!-- Include js plugin -->
-    <script src="assets/owl-carousel/owl.carousel.js"></script>
-    <script>
-        var nav = document.querySelector("nav");
+    <script src="./css/owl.carousel.js"></script>
 
-        window.addEventListener("scroll", function() {
-            if (window.pageYOffset > 100) {
-                nav.classList.add("bg-dark", "shadow");
-            } else {
-                nav.classList.remove("bg-dark", "shadow");
-            }
-        });
-    </script>
+    <!-- include scripts -->
+    <?php include './include/script.php' ?>
 
     <script>
         $('.owl-carousel').owlCarousel({
