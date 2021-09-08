@@ -9,9 +9,7 @@
 <body>
     <!-- Header Opened -->
     <!-- NavBar started -->
-    <?php 
-        include('include/header.php')
-    ?>
+    <?php include('include/header.php') ?>
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
@@ -42,14 +40,14 @@
                     Naava is an amalgamation of comfort, beauty and adventure: whether you are someone seeking a break from your daily
                     affairs or someone seeking adventure or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for
                     you. With friendly and hospitable staff, quality food and spacious, modern architectural rooms, you can
-                    experience a new home, away from home. 
+                    experience a new home, away from home.
                 </p>
                 <div class="collapse multi-collapse" id="multiCollapseExample2">
                     <p class="para_align">
-                        Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
-                        dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
-                        forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
-                        you an experience unlike any other. 
+                        Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
+                        dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
+                        forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers
+                        you an experience unlike any other.
                     </p>
                 </div>
                 <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
@@ -75,7 +73,7 @@
                     </div>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="img/testimonial.png" alt="Testimonial"> 
+                            <img src="img/testimonial.png" alt="Testimonial">
                             <p>
                                 I am very glad I had the opportinuty to visit this hotel. The stuff is very friendly
                                 and I will definetly visit the hotel again next year.
@@ -97,11 +95,11 @@
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon bg-dark" aria-hidden="true"></span>
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Previous</span>
                     </button>
                     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                        <span class="carousel-control-next-icon bg-dark" aria-hidden="true"></span>
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Next</span>
                     </button>
                 </div>
@@ -112,89 +110,12 @@
         </div>
     </div>
     <!-- About Content Session Closed -->
-
-
     <!-- Photo Session Opened -->
-    <div class="container">
-        <h6 class="Header_6"><strong>PHOTOS</strong></h6>
-        <h2 class="Header_2 col-lg-8 col-sm-12"><strong><b>See our latest photos From restaurant and hotel</b></strong></h2>
-    </div>
-    <div class="owl-carousel owl-theme">
-        <div class="item">
-            <img src="img/Table_final.png" class="float-right" alt="Table Final">
-        </div>
-        <div class="item">
-            <img src="img/Bishnudwaar_final.png" class="float-right" alt="Bishnudwaar Hiking">
-        </div>
-        <div class="item">
-            <img src="img/Bed_final.png" class="float-right" alt="Hotel Bed">
-        </div>
-        <div class="item">
-            <img src="img/Seminar_final.png" class="float-right" alt="Seminar Hall">
-        </div>
-    </div>
+    <?php include './include/carousel_footer.php' ?>
     <!-- Photo Session Closed -->
     </section>
     <!-- Footer Session Opened -->
-    <footer class="footer-section">
-        <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <!-- <img src="img/Naava PP.png" alt="Logo"> -->
-                    <h2 class="text-white">Naava Resort & Retreat</h2>
-                    <p class="text-white">Our hotel is an image of quality and profesionalism combined with hard work and precision.
-                        You can expect only the best services from our staff.
-                    </p>
-                    <div class="footer-social-icon mt-2">
-                        <a href="https://www.facebook.com/Naava-Resort-Retreat-100547551927011/"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                        <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-                        <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Useful Links</h2>
-                    <ul style="list-style-type:none;">
-                        <li><a class="footer_link" href="#">Blog</a></li>
-                        <li><a class="footer_link" href="package.php">Rooms</a></li>
-                        <li><a class="footer_link" href="#">Gift Card</a></li>
-                        <li><a class="footer_link" href="#">Testimonials</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Privacy</h2>
-                    <ul style="list-style-type: none;">
-                        <li><a class="footer_link" href="#">Career</a></li>
-                        <li><a class="footer_link" href="about.php">About Us</a></li>
-                        <li><a class="footer_link" href="contact.php">Contact us</a></li>
-                        <li><a class="footer_link" href="eat_and_drink.php">Services</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Contact</h2>
-                    <div class="footer-social-icon">
-                        <div class="single-cta">
-                            <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">example@naava.com</span>
-                        </div>
-                        <div class="single-cta">
-                            <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
-                        </div>
-                        <div class="single-cta">
-                            <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Main Str Nepal</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-6">
-                    <p class="text-white float-start">Copyright &copy; 2018, All Right Reserved SewaTech</p>
-                </div>
-                <div class="col-6">
-                    <a class="footer_link float-end" href="#">https://naavaresort.com.np</a>
-                </div>
-            </div>
-        </div>
-        </div>
-    </footer>
+    <?php include './include/footer.php' ?>
     <!-- Footer Session Closed -->
     <script src="js/owl.carousel.js"></script>
     <script src="js/owl.carousel.min.js"></script>
@@ -216,36 +137,8 @@
 
     <!-- Include js plugin -->
     <script src="assets/owl-carousel/owl.carousel.js"></script>
-    <script>
-        var nav = document.querySelector("nav");
-
-        window.addEventListener("scroll", function() {
-            if (window.pageYOffset > 100) {
-                nav.classList.add("bg-dark", "shadow");
-            } else {
-                nav.classList.remove("bg-dark", "shadow");
-            }
-        });
-    </script>
-
-    <script>
-        $('.owl-carousel').owlCarousel({
-            loop: true,
-            margin: 0,
-            nav: false,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 3
-                },
-                1000: {
-                    items: 5
-                }
-            }
-        })
-    </script>
+    <?php include './include/script.php' ?>
+    <?php include './include/carousel_footer_script.php' ?>
 
 </body>
 
