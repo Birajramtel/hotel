@@ -173,7 +173,7 @@
             <div class="col-md-6">
                 <img src="img/Teen Chuli.png" alt="Teen Chuli" class="img-fluid">
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 mb-3">
                 <h6 class="Header_6"> <strong><b>Pilgrimage</b> </strong> </h6>
                 <p class="para_align">
                     Shivapuri is home to several religious and pilgrimage sites for the Hindus and Buddhists.

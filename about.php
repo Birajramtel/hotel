@@ -14,53 +14,13 @@
     <link rel="stylesheet" href="js/owl.carousel.js">
     <link rel="stylesheet" href="js/owl.carousel.min.js">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script>
 </head>
 
 <body>
     <!-- Header Opened -->
     <!-- NavBar started -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
-        <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="img/Naava PP.png" alt="">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <div class="mx-auto"></div>
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="index.php">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="about.php"><u>About Naava</u></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="explore_shivapuri.php">Explore Shivapuri</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="accommodation.php">Accommodation</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="eat_and_drink.php">Eat and Drink</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link text-white" href="package.php">Packages</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="highlight.php">Highlights</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="gallery.php">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="contact.php">Contact Us</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <?php include('include/header.php') ?>
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
@@ -116,11 +76,44 @@
             <div class="col-md-7 col-sm-12 mt-5 testimonials">
                 <h6 class="Header_6"><strong>TESTIMONIALS</strong></h6>
                 <h2 class="Header_2"> <strong><b> We trust our customers and they trusts us too</b></strong></h2>
-                <img src="img/Naava PP.png" alt="">
-                <p>
-                    I am very glad I had the opportinuty to visit this hotel. The stuff is very friendly
-                    and I will definetly visit the hotel again next year.
-                </p>
+                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-indicators">
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                    </div>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src="img/testimonial.png" alt="Testimonial"> 
+                            <p>
+                                I am very glad I had the opportinuty to visit this hotel. The stuff is very friendly
+                                and I will definetly visit the hotel again next year.
+                            </p>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/testimonial_1.png" alt="Testimonial">
+                            <p>
+                                I am very glad I had the opportinuty to visit this hotel. The stuff is very friendly
+                                and I will definetly visit the hotel again next year.
+                            </p>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="img/testimonial_2.png" alt="Testimonial">
+                            <p>
+                                I am very glad I had the opportinuty to visit this hotel. The stuff is very friendly
+                                and I will definetly visit the hotel again next year.
+                            </p>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon bg-dark" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon bg-dark" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
             </div>
             <div class="col-md-5 col-sm-12 mt-5 pb-2">
                 <img src="img/Naava Brown BG Logo 1.png" class="img-fluid" alt="Naava Brown BG logo" width="100%">

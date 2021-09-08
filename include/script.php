@@ -11,9 +11,7 @@
         });
 
         $(".navbar-toggler").click(function(){
-       
-                $("#bg_nav").toggleClass("bg-dark");
-            
+                $("#bg_nav").toggleClass("bg-menu");
         });
     })
-    </script>
+</script>

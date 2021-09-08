@@ -253,3 +253,6 @@ select {
 .background_content {
   background-color: #61483a;
 }
+.bg-menu {
+  background-color: #212529 !important;
+}
