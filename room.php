@@ -24,6 +24,39 @@
         </div>
     </div>
     <!-- Header Closed -->
+    <!-- Form Opened -->
+    <div class="container Form_bg">
+        <form class="form_bg p-3 mt-3" action="">
+            <div class="row">
+                <div class="col-md-2 mt-2">
+                    <label for="rooms" class="text-white">Rooms</label>
+                    <select id="room" name="room">
+                        <option value="room_0">Rooms</option>
+                        <option value="room_1">B&B</option>
+                        <option value="room_2">SMALL</option>
+                        <option value="room_3">PREMIUM</option>
+                        <option value="room_4">EXPENCIVE</option>
+                    </select>
+                </div>
+                <div class="col-md-3 mt-2">
+                    <label for="Check In" class="text-white">Check In</label>
+                    <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
+                </div>
+                <div class="col-md-3 mt-2">
+                    <label for="Check Out" class="text-white">Check Out</label>
+                    <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
+                </div>
+                <div class="col-md-3 mt-2">
+                    <label for="Email" class="text-white">Email</label>
+                    <input type="email" class="form-control" placeholder="Email" aria-label="Email">
+                </div>
+                <div class="d-flex justify-content-center pt-3">
+                    <button type="submit" class="btn btn-light">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <!-- Form Closed -->
 
     <!-- Accommodation Content Session Opened -->
     <div class="container mt-5 mb-5">
@@ -69,39 +102,7 @@
     </div>
     <!-- Accommodation Content Session Closed -->
 
-    <!-- Form Opened -->
-    <div class="container d-none d-md-block Form_bg">
-        <form class="form_bg p-3 mt-3" action="">
-            <div class="row">
-                <div class="col-md-2 mt-2">
-                    <label for="rooms" class="text-white">Rooms</label>
-                    <select id="room" name="room">
-                        <option value="room_0">Rooms</option>
-                        <option value="room_1">B&B</option>
-                        <option value="room_2">SMALL</option>
-                        <option value="room_3">PREMIUM</option>
-                        <option value="room_4">EXPENCIVE</option>
-                    </select>
-                </div>
-                <div class="col-md-3 mt-2">
-                    <label for="Check In" class="text-white">Check In</label>
-                    <input type="date" class="form-control" placeholder="Check In" aria-label="Check In">
-                </div>
-                <div class="col-md-3 mt-2">
-                    <label for="Check Out" class="text-white">Check Out</label>
-                    <input type="date" class="form-control" placeholder="Check Out" aria-label="Check Out">
-                </div>
-                <div class="col-md-3 mt-2">
-                    <label for="Email" class="text-white">Email</label>
-                    <input type="email" class="form-control" placeholder="Email" aria-label="Email">
-                </div>
-                <div class="d-flex justify-content-center pt-3">
-                    <button type="submit" class="btn btn-light">Submit</button>
-                </div>
-            </div>
-        </form>
-    </div>
-    <!-- Form Closed -->
+
 
     <!-- Photo Session Opened -->
     <?php include './include/carousel_footer.php' ?>
