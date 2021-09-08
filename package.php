@@ -2,65 +2,14 @@
 <html lang="en">
 
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <?php include './include/head.php' ?>
     <title>Naava Hotel</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="js/owl.carousel.js">
-    <link rel="stylesheet" href="js/owl.carousel.min.js">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 </head>
 
 <body>
     <!-- Header Opened -->
     <!-- NavBar started -->
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-3">
-        <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="img/Naava PP.png" alt="">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <div class="mx-auto"></div>
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="index.php">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="about.php">About Naava</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="explore_shivapuri.php">Explore Shivapuri</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="accommodation.php">Accommodation</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="eat_and_drink.php">Eat and Drink</a>
-                    </li>
-                    <li class="nav-item ">
-                        <a class="nav-link active" href="package.php"><u>Packages</u></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="highlight.php">Highlights</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="gallery.php">Gallery</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link text-white" href="contact.php">Contact Us</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <?php include('include/header.php') ?>
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
@@ -91,10 +40,10 @@
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast.</p>
                         <div class="collapse multi-collapse" id="multiCollapseExample1">
                             <p class="para_align">
-                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
-                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
-                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
-                                you an experience unlike any other. 
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers
+                                you an experience unlike any other.
                             </p>
                         </div>
                         <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample1" aria-expanded="false" aria-controls="multiCollapseExample1">Read More</button>
@@ -116,10 +65,10 @@
                         </p>
                         <div class="collapse multi-collapse" id="multiCollapseExample2">
                             <p class="para_align">
-                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
-                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
-                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
-                                you an experience unlike any other. 
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers
+                                you an experience unlike any other.
                             </p>
                         </div>
                         <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
@@ -141,10 +90,10 @@
                             In addition to this six item with three vegetarian and three non-vegetarian snacks will be served in the evening.</p>
                         <div class="collapse multi-collapse" id="multiCollapseExample3">
                             <p class="para_align">
-                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
-                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
-                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
-                                you an experience unlike any other. 
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers
+                                you an experience unlike any other.
                             </p>
                         </div>
                         <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample3" aria-expanded="false" aria-controls="multiCollapseExample3">Read More</button>
@@ -167,10 +116,10 @@
                             of the national park or the monasteries nearby, have breakfast and depart.</p>
                         <div class="collapse multi-collapse" id="multiCollapseExample4">
                             <p class="para_align">
-                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful, 
-                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron 
-                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers 
-                                you an experience unlike any other. 
+                                Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
+                                dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
+                                forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers
+                                you an experience unlike any other.
                             </p>
                         </div>
                         <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample4" aria-expanded="false" aria-controls="multiCollapseExample4">Read More</button>
@@ -211,86 +160,11 @@
 
 
     <!-- Photo Session Opened -->
-    <div class="container">
-        <h6 class="Header_6"><strong>PHOTOS</strong></h6>
-        <h2 class="Header_2 col-lg-8 col-sm-12"><strong><b>See our latest photos From restaurant and hotel</b></strong></h2>
-    </div>
-    <div class="owl-carousel owl-theme">
-        <div class="item">
-            <img src="img/Table_final.png" class="float-right" alt="Table Final">
-        </div>
-        <div class="item">
-            <img src="img/Bishnudwaar_final.png" class="float-right" alt="Bishnudwaar Hiking">
-        </div>
-        <div class="item">
-            <img src="img/Bed_final.png" class="float-right" alt="Hotel Bed">
-        </div>
-        <div class="item">
-            <img src="img/Seminar_final.png" class="float-right" alt="Seminar Hall">
-        </div>
-    </div>
+    <?php include './include/carousel_footer.php' ?>
     <!-- Photo Session Closed -->
     </section>
     <!-- Footer Session Opened -->
-    <footer class="footer-section">
-        <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <!-- <img src="img/Naava PP.png" alt="Logo"> -->
-                    <h2 class="text-white">Naava Resort & Retreat</h2>
-                    <p class="text-white">Our hotel is an image of quality and profesionalism combined with hard work and precision.
-                        You can expect only the best services from our staff.
-                    </p>
-                    <div class="footer-social-icon mt-2">
-                        <a href="https://www.facebook.com/Naava-Resort-Retreat-100547551927011/"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                        <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-                        <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Useful Links</h2>
-                    <ul style="list-style-type:none;">
-                        <li><a class="footer_link" href="#">Blog</a></li>
-                        <li><a class="footer_link" href="package.php">Rooms</a></li>
-                        <li><a class="footer_link" href="#">Gift Card</a></li>
-                        <li><a class="footer_link" href="#">Testimonials</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Privacy</h2>
-                    <ul style="list-style-type: none;">
-                        <li><a class="footer_link" href="#">Career</a></li>
-                        <li><a class="footer_link" href="about.php">About Us</a></li>
-                        <li><a class="footer_link" href="contact.php">Contact us</a></li>
-                        <li><a class="footer_link" href="#">Services</a></li>
-                    </ul>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
-                    <h2 class="text-white">Contact</h2>
-                    <div class="footer-social-icon">
-                        <div class="single-cta">
-                            <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">example@naava.com</span>
-                        </div>
-                        <div class="single-cta">
-                            <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
-                        </div>
-                        <div class="single-cta">
-                            <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Main Str Nepal</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-6">
-                    <p class="text-white float-start">Copyright &copy; 2018, All Right Reserved SewaTech</p>
-                </div>
-                <div class="col-6">
-                    <a class="footer_link float-end" href="#">https://naavaresort.com.np</a>
-                </div>
-            </div>
-        </div>
-        </div>
-    </footer>
+    <?php include './include/footer.php' ?>
     <!-- Footer Session Closed -->
     <script src="js/owl.carousel.js"></script>
     <script src="js/owl.carousel.min.js"></script>
@@ -312,36 +186,9 @@
 
     <!-- Include js plugin -->
     <script src="assets/owl-carousel/owl.carousel.js"></script>
-    <script>
-        var nav = document.querySelector("nav");
+    <?php include './include/script.php' ?>
+    <?php include './include/carousel_footer_script.php' ?>
 
-        window.addEventListener("scroll", function() {
-            if (window.pageYOffset > 100) {
-                nav.classList.add("bg-dark", "shadow");
-            } else {
-                nav.classList.remove("bg-dark", "shadow");
-            }
-        });
-    </script>
-
-    <script>
-        $(' .owl-carousel').owlCarousel({
-            loop: true,
-            margin: 0,
-            nav: false,
-            responsive: {
-                0: {
-                    items: 1
-                },
-                600: {
-                    items: 3
-                },
-                1000: {
-                    items: 5
-                }
-            }
-        })
-    </script>
 
 </body>
 
