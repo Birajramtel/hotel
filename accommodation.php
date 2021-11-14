@@ -137,8 +137,27 @@
             standard rooms each with proper services. What better place to refresh yourself after a long day and looking for
             a perfect getaway.
             Our Standard Rooms have a large bed, private bathroom, shower products, LED TV with satellite channels, Tea / Coffee
-            makers, hot water and free high-speed wireless internet
+            makers, hot water and free high-speed wireless internet. 
         </p>
+    </div>
+    <div class="container mt-5">
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card">
+                    <img src="./img/Room 106.png" class="card-img-top" alt="Room">
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <img src="./img/Accommodation room 1.png" class="card-img-top" alt="accommodation Room">
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <img src="./img/Room 106.png" class="card-img-top" alt="Room Details">
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- Accommodation Content Session Closed -->
