@@ -49,6 +49,12 @@
                             threatened and 35 globally near threatened. Among them 311 bird species,
                             including 117 migratory birds have been found in Shivapuri, making it an
                             ornithologist’s paradise.
+                            <br>
+                            One can spot exotic birds such as the Wren babbler and the Spiny babbler, the only endemic bird
+                            in Nepal. Other commonly spotted birds are white backed vulture. Himalayan griffon, black vulture,
+                            beard vulture, dark kite, hen harrier, goshawk, sparrow hawk, sikhra, common buzzard, Asain black
+                            eagle, steppe eagle, magpies, kalij pheasant, leafbirds, flycatcher, buchcat etc. At Naava, we accompany 
+                            ornithologists and bird admires to pursue their passion and go for bird watching.      
                         </p>
                     </div>
                 </div>
@@ -61,6 +67,71 @@
                         <p class="card-text para_align">
                             Your perfect adventure guide.
                             Available hiking routes:
+                            <ul class="pt-0 mt-0">
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12">
+                                        <li>
+                                            <strong>Trail Code 101 – Naagi Gumba</strong> 
+                                            <span>
+                                                Paani Muhaan -Naagi Gumba (4km)
+                                                <br>
+                                               <u> Hike:</u> 45 minutes Jeep safari: 15 minutes <br> <u>Return Route: </u> Same
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <strong>Trail 2 Code 102 – Bishnudwar</strong> 
+                                            <span>
+                                                Paani Muhaan -Bishnudwar
+                                                <br>
+                                               <u>Hike: </u> 1 hour (5km) Jeep safari: 30 minutes (6km) <br> <u>Return Route:</u>  Same
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <strong>Trail Code 103 – Baghdwar</strong>
+                                            <span>
+                                                Paani Muhaan -Naagi Gumba - Baghdwar (10km)
+                                                <br>
+                                                <u>Hike:</u>  1 hour (5km) Jeep safari: 30 minutes (6km) <br> <u>Return Route:</u> Same
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <strong>Trail Code 104 – Shivapuri Peak</strong>
+                                            <span>
+                                                Paani Muhaan -Naagi Gumba - Baghdwar - Tinchuli -Shivapuri Peak (13km)
+                                                <br>
+                                                <u>Hike:</u> 3 hour 30 minutes<br> <u>Return Route:</u> Shivapuri Peak - Chaap Bhanjyang - 
+                                                Bishnudwar - Paani Muhan (10km)
+                                            </span>
+                                        </li>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12">
+                                        <li>
+                                           <strong>Trail Code 105 – Sundarijal</strong> 
+                                           <span>
+                                                Paani Muhaan -Naagi Gumba - Sundarijal(13km)
+                                                <br>
+                                                <u>Jeep Safari:</u> 1 hour (13km)<br> <u>Return Route:</u> Same
+                                            </span>
+                                        </li>
+                                        <li>
+                                            <strong>Trail Code 106 – Chisapani (Hike)</strong> 
+                                            <span>
+                                                Paani Muhaan -Naagi Gumba - Baghdwar - Tinchuli - Chisapaani (20km)
+                                                <br>
+                                                <u>Hike:</u> 5 hours<br> <u>Return Route:</u> Same
+                                            </span>
+                                        </li>
+                                        <li>
+                                           <strong>Trail Code 107 – Chisapani (Safari)</strong>
+                                           <span>
+                                                Paani Muhaan -Naagi Gumba - Sundarijal - Chisapani (30km) 
+                                                <br>
+                                                <u>Jeep Safari: </u> 2 hours<br> <u>Return Route:</u> Same
+                                            </span>
+                                        </li>
+                                    </div>
+                                </div>
+                            </ul>
                         </p>
                     </div>
                 </div>
