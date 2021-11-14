@@ -17,7 +17,7 @@
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>About Naava</b></strong> </h2>
-            <ul class="breadcrumb pl-1">
+            <ul class="breadcrumb pl-1 ">
                 <li><a href="index.php">Home </a></li>
                 <li><a href="about_us.php"> About Us</a></li>
             </ul>
@@ -58,7 +58,7 @@
         </div>
     </div>
     <div class="about_hotel mb-0">
-        <img src="img/Seminar Hall from Back side 1.png" alt="Seminar Hall" class="w-100 img-fluid">
+        <img src="img/Day Package - Picnic.png" alt="Seminar Hall" class="w-100 img-fluid">
     </div>
     <div class="container testimonial">
         <div class="row mt-5 bg_test">
