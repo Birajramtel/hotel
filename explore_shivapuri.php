@@ -70,10 +70,23 @@
                     <li>Oak forests</li>
                     <li>Upper mixed hardwood forests</li>
                 </ul>
+                <p class="para_align">
+                    Clouded leopard, pangolin, Assamese monkey and leopard cat are the protected mammals 
+                    found in SNNP. Common mammals include common leopard, Himalayan black bear, Himalayan goral,
+                    Naemorhedus goral, jungle cat, Himalayan wild boar, baking deer, sambar deer, rhesus monkey, civets
+                    porcupine and yellow throated marten.
+                    <br> The park has 311 species of birds including 177 migratory birds. Common species of bird species 
+                    are white backed vulture, Himalayan griffon, black vulture, beard vulture (Nepali & Suwal, 2007), dark kite, hen
+                    harrier, goshawk, sparrow hawk, sikhra, common buzzerd, Asain black eagle, steppe eagle (BPP, 1995), magpies,
+                    kalij pheasant, leafbirds, flycatcher, bushchat, babblers, cuckoos, bullbul, swift, warblers. Importantly, the spiny
+                    babler and the wren babler are the endemic birds found in Shivapuri Nagarjun national park.
+                    <br>King cobra, green pit viper, rat snake, skink, lizards, geckos are common reptiles found in SNNP.Frogs and toads are
+                    common amphibians. The peak has 102 species of moths and butterfiles. 
+                </p>
             </div>
             <div class="col-md-6">
                 <div class="col-md-6 pb-1 d-block d-md-none">
-                    <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+                    <img src="img/gallery/shivapuri_flora.jpg" alt="Shivapuri Flora" class="img-fluid pl-5 w-100">
                 </div>
                 <h6 class="Header_6"><strong><b>Watershed Value</b></strong></h6>
                 <p class="para_align">
@@ -83,7 +96,7 @@
                     uses of the rivers.
             </div>
             <div class="col-md-6">
-                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
+                <img src="img/gallery/shivapuri_flora.jpg" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
             </div>
             <div class="col-md-6">
                 <img src="img/Teen Chuli.png" alt="Teen Chuli" class="img-fluid">
@@ -134,6 +147,11 @@
                     the Nepalese New year’s day, a religious fair is held at Baagdwar and hindu devotees flock to the
                     site to take a holy bath early in the morning, with the belief that doing so will wash away their
                     sins. Both Baagdwar and Bishnudwar hold great religious significance.
+                    <ul style="list-style-type: circle;">
+                        <li>Naagi Gumba</li>
+                        <li>Baaghdwar</li>
+                        <li>Bishnudwaar</li>
+                    </ul>
                 </p>
             </div>
         </div>
