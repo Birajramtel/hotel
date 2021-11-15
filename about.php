@@ -41,8 +41,9 @@
                     affairs or someone seeking adventure or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for
                     you. With friendly and hospitable staff, quality food and spacious, modern architectural rooms, you can
                     experience a new home, away from home.
+                    <span id="dots">...</span>
                 </p>
-                <div class="collapse multi-collapse" id="multiCollapseExample2">
+                <div class="collapse multi-collapse" id="more">
                     <p class="para_align">
                         Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
                         dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
@@ -50,7 +51,7 @@
                         you an experience unlike any other.
                     </p>
                 </div>
-                <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
+                <button class="btn btn-colour-1 mb-2" onclick="myFunction()" id="myBtn" type="button" data-bs-toggle="collapse" data-bs-target="#more" aria-expanded="false" aria-controls="more">Read More</button>
             </div>
             <div class="col-md-6 col-sm-12 pb-2">
                 <div class="row">
@@ -66,7 +67,7 @@
         </div>
     </div>
     <div class="about_hotel mb-0">
-        <img src="img/Day Package - Picnic.png" alt="Seminar Hall" class="w-100 img-fluid">
+        <img src="img/Meeting and Seminar.png" alt="Seminar Hall" class="w-100 img-fluid">
     </div>
     <div class="container testimonial">
         <div class="row mt-5 bg_test">
@@ -147,6 +148,7 @@
     <script src="assets/owl-carousel/owl.carousel.js"></script>
     <?php include './include/script.php' ?>
     <?php include './include/carousel_footer_script.php' ?>
+    <?php include './include/readmore.php' ?>
 
 </body>
 
