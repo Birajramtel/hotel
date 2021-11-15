@@ -59,7 +59,7 @@
                         <div class="card">
                             <img src="./img/gallery/welcome_board.png" alt="Welcome Board">
                             <div class="card-body">
-                                <h5 class="card-title text-center">Shivapuri</h5>
+                                <h6 class="card-title text-center"><strong><u>Shivapuri</u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                         <div class="card">
                             <img src="./img/gallery/birds.png" class="" alt="Birds">
                             <div class="card-body">
-                                <h5 class="card-title text-center">Birds</h5>
+                                <h6 class="card-title text-center"><strong><u>Birds</u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                         <div class="card">
                             <img src="./img/gallery/deer.png" class="" alt="Deer">
                             <div class="card-body">
-                                <h5 class="card-title text-center">Wild Life</h5>
+                                <h6 class="card-title text-center"><strong><u>Wild Life</u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                         <div class="card">
                             <img src="./img/gallery/red_panda.png" class="" alt="Red Panda">
                             <div class="card-body">
-                                <h5 class="card-title text-center">Habitat</h5>
+                                <h6 class="card-title text-center"><strong><u>Habitat</u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -91,7 +91,7 @@
                         <div class="card">
                             <img src="./img/gallery/shivapuri_view.png" alt="Shivapuri View">
                             <div class="card-body">
-                                <h5 class="card-title text-center">Views</h5>
+                                <h6 class="card-title text-center"><strong><u>Views</u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -99,11 +99,10 @@
                         <div class="card">
                             <img src="./img/gallery/forest.png" class="" alt="Forest">
                             <div class="card-body">
-                                <h5 class="card-title text-center">Forest</h5>
+                                <h6 class="card-title text-center"><strong><u>Forest</u></strong> </h6>
                             </div>
                         </div>
                     </div>
-                   
                 </div>
             </div>
             <div class="col-md-6">
@@ -177,7 +176,7 @@
                     (BPP, 1995), magpies, kalij pheasant, leafbirds, flycatcher, bushchat, babblers, cuckoos, bulbul, swift,
                     warblers. Importantly, the spiny babler, and the wren babler are the endemic birds found in Shivapuri
                     Nagarjun national park.
-
+                </p>
             </div>
             <div class="col-md-6">
                 <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
@@ -186,24 +185,39 @@
                 <!-- <img src="img/gallery/Gallery_3.png" alt="Teen Chuli" class="img-fluid"> -->
                 <!-- <ul style="list-style-type: circle;"> -->
                 <div class="row">
-                    <div class="col">
-                        <strong><u>Naagi Gumba</u></strong>
-                        <img src="./img/gallery/Naagi Gumba.png" class="" alt="Naagi Gumba">
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <img src="./img/gallery/Naagi Gumba.png" class="" alt="Naagi Gumba">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Naagi Gumba</u></strong></h6>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col">
-                        <strong><u>Baaghdwar</u></strong>
-                        <img src="./img/gallery/Baghdwar 1.png" alt="Baghdwar">
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <img src="./img/gallery/Baghdwar 1.png" alt="Baghdwar">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Baaghdwar</u></strong></h6>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col">
-                        <strong><u>Bishnudwaar</u></strong>
-                        <img src="./img/gallery/Bishnudwaar 1.png" alt="Bishnudwaar">
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <img src="./img/gallery/Bishnudwaar 1.png" alt="Bishnudwaar">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Bishnudwaar</u></strong> </h6>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col">
-                        <strong><u>Budhanilkantha</u></strong>
-                        <img src="./img/gallery/budhanilkantha.png" alt="budhanilkantha">
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <img src="./img/gallery/budhanilkantha.png" alt="budhanilkantha">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Budhanilkantha</u></strong> </h6>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                <!-- </ul> -->
             </div>
             <div class="col-md-6 mb-3">
                 <h6 class="Header_6"> <strong><b>Pilgrimage</b> </strong> </h6>
