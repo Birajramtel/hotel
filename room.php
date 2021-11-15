@@ -63,7 +63,7 @@
         <h2 class="ml-4"> <strong>Our Rooms available</strong></h2>
         <div class="card-group">
             <div class="card p-3 pb-2">
-                <img src="img/Accommodation room 1.png" class="card-img-top" alt="Room">
+                <img src="img/gallery/Accommodation room 1 1.png" class="card-img-top" alt="Room">
                 <div class="card-body">
                     <h6 class="card-title Header_6">B&B</h6>
                     <h5><strong>Spacious Room</strong></h5>
@@ -72,7 +72,7 @@
                 <button class="btn btn-colour-1">Book Now</button>
             </div>
             <div class="card p-3 pb-2">
-                <img src="img/Accommodation room 2.png" class="card-img-top" alt="Room">
+                <img src="img/gallery/Accommondation 2.png" class="card-img-top" alt="Room">
                 <div class="card-body">
                     <h6 class="card-title Header_6">SMALL</h6>
                     <h5><strong>Small Cheap Room</strong></h5>
@@ -81,7 +81,7 @@
                 <button class="btn btn-colour-1">Book Now</button>
             </div>
             <div class="card p-3 pb-2">
-                <img src="img/Accommodation room 4.png" class="card-img-top" alt="Room">
+                <img src="img/Accommodation room 3.png" class="card-img-top" alt="Room">
                 <div class="card-body">
                     <h6 class="card-title Header_6">EXPENSIVE</h6>
                     <h5><strong>Big Room</strong></h5>
