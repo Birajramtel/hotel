@@ -53,6 +53,14 @@
                 <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
             <div class="col-md-6 col-sm-12 pb-2">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6 d-flex justify-content-center">
+                        <img src="img/Hotel Location 1.png" class="img-fluid p-1" alt="Hotel Location">
+                    </div>
+                    <div class="col-md-6 col-sm-6 d-flex justify-content-center">
+                        <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Hotel Location">
+                    </div>
+                </div>
                 <img src="img/Hotel_Location 3.png" class="img-fluid" alt="Hotel Location" width="100%">
             </div>
         </div>
