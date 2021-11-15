@@ -257,3 +257,6 @@ select {
 .bg-menu {
   background-color: #212529 !important;
 }
+.more{
+  display: none;
+}
