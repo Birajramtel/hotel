@@ -140,21 +140,30 @@
             makers, hot water and free high-speed wireless internet. 
         </p>
     </div>
-    <div class="container mt-5">
+    <div class="container mt-5 mb-5">
         <div class="row row-cols-1 row-cols-md-3 g-4">
             <div class="col">
                 <div class="card">
                     <img src="./img/Room 106.png" class="card-img-top" alt="Room">
+                    <h5 class="card-text para_align text-center pt-2 pb-2">
+                        <strong><u>Normal room</u></strong>
+                    </h5>
                 </div>
             </div>
             <div class="col">
                 <div class="card">
-                    <img src="./img/Accommodation room 1.png" class="card-img-top" alt="accommodation Room">
+                    <img src="./img/gallery/Accommodation room 1 1.png" class="card-img-top" alt="accommodation Room">
+                    <h5 class="card-text para_align text-center pt-2 pb-2">
+                        <strong><u>Standard room</u></strong>
+                    </h5>
                 </div>
             </div>
             <div class="col">
                 <div class="card">
-                    <img src="./img/Room 106.png" class="card-img-top" alt="Room Details">
+                    <img src="./img/Accommodation room 3.png" class="card-img-top" alt="Room Details">
+                    <h5 class="card-text para_align text-center pt-2 pb-2">
+                        <strong><u>Deluxe room</u></strong>
+                    </h5>
                 </div>
             </div>
         </div>
