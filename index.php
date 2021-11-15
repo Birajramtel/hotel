@@ -12,6 +12,7 @@
     <?php include './include/header.php' ?>
     <!-- Banner Image  -->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -19,33 +20,33 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/Slider_image_1.png" class="d-block w-100" alt=" Hotel View">
+                <img src="img/Slider_image_1 1.png" class="d-block w-100" alt=" Hotel View">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
-                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                    <!-- <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2> -->
+                    <!-- <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
                         someone seeking a break from your daily affairs or someone seeking adventure
                         or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
-                    </p>
+                    </p> -->
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_image_2.png" class="d-block w-100" alt="Hotel View">
+                <img src="img/Slider_image_2 2.png" class="d-block w-100" alt="Hotel View">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
-                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                    <!-- <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2> -->
+                    <!-- <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
                         someone seeking a break from your daily affairs or someone seeking adventure
                         or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
-                    </p>
+                    </p> -->
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/Slider_image_3.png" class="d-block w-100" alt="Hotel View">
+                <img src="img/Slider_image_3 3.png" class="d-block w-100" alt="Hotel View">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2>
-                    <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
+                    <!-- <h2 class="header_1 pb-5"> Your home <br> away from Home.</h2> -->
+                    <!-- <p>Naava is an amalgamation of comfort, beauty and adventure: whether you are
                         someone seeking a break from your daily affairs or someone seeking adventure
                         or insight into Nepal’s diverse flora and fauna, Naava is the perfect place for you.
-                    </p>
+                    </p> -->
                 </div>
             </div>
         </div>
@@ -108,26 +109,19 @@
                             from the hustle and bustle of the city and allows you to immerse into Shivapuri’s natural beauty.
                         </strong>
                     </p>
-                    <p class="para_align">Naava is an amalgamation of comfort, beauty and adventure: whether you are someone
+                    <!-- <p class="para_align">Naava is an amalgamation of comfort, beauty and adventure: whether you are someone
                         seeking a break from your daily affairs or someone seeking adventure or insight into Nepal’s diverse
                         flora and fauna, Naava is the perfect place for you. With friendly and hospitable staff, quality food
                         and spacious, modern architectural rooms, you can experience a new home, away from home. With an eagle
                         eye view of Kathmandu Valley, beautiful Langtan Himalayas, lush rhododendron forests as well as prestigious
                         religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers you an experience unlike any other.
-                    </p>
+                    </p> -->
                     <a href="about.php">
                         <button class="btn btn-lg btn-colour-1 float-end">Read More</button>
                     </a>
                 </div>
                 <div class="col-md-6 col-sm-12 m-0">
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6 d-flex justify-content-center">
-                            <img src="img/Hotel Location 1.png" class="img-fluid p-1" alt="Hotel Location">
-                        </div>
-                        <div class="col-md-6 col-sm-6 d-flex justify-content-center">
-                            <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Hotel Location">
-                        </div>
-                    </div>
+                    <!--  -->
                     <img src="img/Hotel_Location 3.png" class="img-fluid p-1" alt="Hotel Location" width="100%">
                 </div>
             </div>
@@ -142,7 +136,7 @@
                 <div class="row pb-5">
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
+                            <img class="card-img-top" src="img/gallery/thakali.jpg" alt="Thakali Khaja Set">
                             <div class="card-body">
                                 <h5 class="card-title"><strong> B&B </strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
@@ -152,7 +146,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
+                            <img class="card-img-top" src="img/gallery/mustang_aloo.jpg" alt="Mustang Aloo">
                             <div class="card-body">
                                 <h5 class="card-title"><strong> Full Board </strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
@@ -162,7 +156,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
+                            <img class="card-img-top" src="img/gallery/kalij.jpg" alt="Kalij">
                             <div class="card-body">
                                 <h5 class="card-title"><strong>Full Board Premium</strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental premium breakfast in the morning.</p>
@@ -172,7 +166,7 @@
                     </div>
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/Seminar Hall from Back.png" alt="Seminar Hall from Back">
+                            <img class="card-img-top" src="img/gallery/Thakali_set_2.png" alt="Thakalai Khaja set 2">
                             <div class="card-body">
                                 <h5 class="card-title"><strong> Half Board </strong></h5>
                                 <p class="card-text ">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
@@ -213,20 +207,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div class="card">
-                        <img src="img/Day Package - Picnic.png" class="card-img-top" alt="Day Package - Picnic">
-                        <div class="card-body">
-                            <h5 class="card-title Header_2">Day Package - Picnic </h5>
-                            <p class="card-text para_align">
-                                Picnics are perfect means of getaway from the urban hustle and daily grind.
-                                At Naava, you can book a picnic spot and spend time with your family. We
-                                have the capacity of managing picnic for 100 participants and have variety
-                                of menu to offer to our respected guest.
-                            </p>
-                        </div>
-                    </div>
-                </div>
                 <div class="col-md-6 ">
                     <div class="card">
                         <img src="img/Teen Chuli.png" class="card-img-top" alt="Teen Chuli">
@@ -239,48 +219,31 @@
                                 <div class="row">
                                     <div class="col-md-6 col-sm-12">
                                         <li>
-                                            Trail Code 101 – Naagi Gumba
+                                           <strong>Trail Code 101 – Naagi Gumba</strong> 
                                         </li>
                                         <li>
-                                            Trail 2 Code 102 – Bishnudwar
+                                           <strong>Trail 2 Code 102 – Bishnudwar</strong> 
                                         </li>
                                         <li>
-                                            Trail Code 103 – Baghdwar
+                                           <strong>Trail Code 103 – Baghdwar</strong> 
                                         </li>
                                         <li>
-                                            Trail Code 104 – Shivapuri Peak
+                                           <strong>Trail Code 104 – Shivapuri Peak</strong> 
                                         </li>
                                     </div>
                                     <div class="col-md-6 col-sm-12">
                                         <li>
-                                            Trail Code 105 – Sundarijal
+                                          <strong>Trail Code 105 – Sundarijal</strong>  
                                         </li>
                                         <li>
-                                            Trail Code 106 – Chisapani (Hike)
+                                          <strong>Trail Code 106 – Chisapani (Hike)</strong>  
                                         </li>
                                         <li>
-                                            Trail Code 107 – Chisapani (Safari)
+                                           <strong>Trail Code 107 – Chisapani (Safari)</strong>
                                         </li>
                                     </div>
                                 </div>
                             </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="card">
-                        <img src="img/Meeting and Seminar.png" class="card-img-top" alt="Meeting and Seminar">
-                        <div class="card-body">
-                            <h5 class="card-title Header_2">Meeting and Semina</h5>
-                            <p class="card-text para_align">
-                                Imagine holding a most productive workshop or a seminar, or even just
-                                a brainstorming session, in a fresh, natural environment that's so
-                                conveniently located, you'll appreciate how much time is saved in
-                                arranging one, Imagine the unleashing of creativity and the opening
-                                of minds, thats ensured by the wonderfully refreshing and cozy ambience.
-                                We have capacity of 20 person in a round table layout and 30 in theatre
-                                style set up.
-                            </p>
                         </div>
                     </div>
                 </div>
