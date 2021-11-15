@@ -66,71 +66,69 @@
                         <h5 class="card-title Header_2">Hike and Jungle Safari </h5>
                         <p class="card-text para_align">
                             Your perfect adventure guide.
-                            Available hiking routes:
+                            Available hiking routes
                             <ul class="pt-0 mt-0">
-                                <div class="row">
-                                    <div class="col-md-6 col-sm-12">
-                                        <li>
-                                            <strong>Trail Code 101 – Naagi Gumba</strong> 
-                                            <span>
-                                                Paani Muhaan -Naagi Gumba (4km)
-                                                <br>
-                                               <u> Hike:</u> 45 minutes Jeep safari: 15 minutes <br> <u>Return Route: </u> Same
-                                            </span>
-                                        </li>
-                                        <li>
-                                            <strong>Trail 2 Code 102 – Bishnudwar</strong> 
-                                            <span>
-                                                Paani Muhaan -Bishnudwar
-                                                <br>
-                                               <u>Hike: </u> 1 hour (5km) Jeep safari: 30 minutes (6km) <br> <u>Return Route:</u>  Same
-                                            </span>
-                                        </li>
-                                        <li>
-                                            <strong>Trail Code 103 – Baghdwar</strong>
-                                            <span>
-                                                Paani Muhaan -Naagi Gumba - Baghdwar (10km)
-                                                <br>
-                                                <u>Hike:</u>  1 hour (5km) Jeep safari: 30 minutes (6km) <br> <u>Return Route:</u> Same
-                                            </span>
-                                        </li>
-                                        <li>
-                                            <strong>Trail Code 104 – Shivapuri Peak</strong>
-                                            <span>
-                                                Paani Muhaan -Naagi Gumba - Baghdwar - Tinchuli -Shivapuri Peak (13km)
-                                                <br>
-                                                <u>Hike:</u> 3 hour 30 minutes<br> <u>Return Route:</u> Shivapuri Peak - Chaap Bhanjyang - 
-                                                Bishnudwar - Paani Muhan (10km)
-                                            </span>
-                                        </li>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <li>
-                                           <strong>Trail Code 105 – Sundarijal</strong> 
-                                           <span>
-                                                Paani Muhaan -Naagi Gumba - Sundarijal(13km)
-                                                <br>
-                                                <u>Jeep Safari:</u> 1 hour (13km)<br> <u>Return Route:</u> Same
-                                            </span>
-                                        </li>
-                                        <li>
-                                            <strong>Trail Code 106 – Chisapani (Hike)</strong> 
-                                            <span>
-                                                Paani Muhaan -Naagi Gumba - Baghdwar - Tinchuli - Chisapaani (20km)
-                                                <br>
-                                                <u>Hike:</u> 5 hours<br> <u>Return Route:</u> Same
-                                            </span>
-                                        </li>
-                                        <li>
-                                           <strong>Trail Code 107 – Chisapani (Safari)</strong>
-                                           <span>
-                                                Paani Muhaan -Naagi Gumba - Sundarijal - Chisapani (30km) 
-                                                <br>
-                                                <u>Jeep Safari: </u> 2 hours<br> <u>Return Route:</u> Same
-                                            </span>
-                                        </li>
-                                    </div>
+                                <li>
+                                    <strong>Trail Code 101 – Naagi Gumba</strong> 
+                                    <span>
+                                        Paani Muhaan -Naagi Gumba (4km)
+                                        <br>
+                                        <u> Hike:</u> 45 minutes Jeep safari: 15 minutes <br> <u>Return Route: </u> Same
+                                    </span>
+                                </li>
+                                <li>
+                                    <strong>Trail 2 Code 102 – Bishnudwar</strong> 
+                                    <span>
+                                        Paani Muhaan -Bishnudwar
+                                        <br>
+                                        <u>Hike: </u> 1 hour (5km) Jeep safari: 30 minutes (6km) <br> <u>Return Route:</u>  Same
+                                        </span>
+                                </li>
+                                <li>
+                                    <strong>Trail Code 103 – Baghdwar</strong>
+                                    <span>
+                                        Paani Muhaan -Naagi Gumba - Baghdwar (10km)
+                                        <br>
+                                        <u>Hike:</u>  1 hour (5km) Jeep safari: 30 minutes (6km) <br> <u>Return Route:</u> Same
+                                    </span>
+                                    <span id="dots">...</span>
+                                </li>
+                                <div class="collapse multi-collapse" id="more">
+                                    <li>
+                                        <strong>Trail Code 104 – Shivapuri Peak</strong>
+                                        <span>
+                                            Paani Muhaan -Naagi Gumba - Baghdwar - Tinchuli -Shivapuri Peak (13km)
+                                            <br>
+                                            <u>Hike:</u> 3 hour 30 minutes<br> <u>Return Route:</u> Shivapuri Peak - Chaap Bhanjyang - 
+                                            Bishnudwar - Paani Muhan (10km)
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <strong>Trail Code 105 – Sundarijal</strong> 
+                                        <span>
+                                            Paani Muhaan -Naagi Gumba - Sundarijal(13km)
+                                            <br>
+                                            <u>Jeep Safari:</u> 1 hour (13km)<br> <u>Return Route:</u> Same
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <strong>Trail Code 106 – Chisapani (Hike)</strong> 
+                                        <span>
+                                            Paani Muhaan -Naagi Gumba - Baghdwar - Tinchuli - Chisapaani (20km)
+                                            <br>
+                                            <u>Hike:</u> 5 hours<br> <u>Return Route:</u> Same
+                                        </span>
+                                    </li>
+                                    <li>
+                                        <strong>Trail Code 107 – Chisapani (Safari)</strong>
+                                        <span>
+                                            Paani Muhaan -Naagi Gumba - Sundarijal - Chisapani (30km) 
+                                            <br>
+                                            <u>Jeep Safari: </u> 2 hours<br> <u>Return Route:</u> Same
+                                        </span>
+                                    </li>
                                 </div>
+                                <button class="btn btn-colour-1 mb-2" onclick="myFunction()" id="myBtn" type="button" data-bs-toggle="collapse" data-bs-target="#more" aria-expanded="false" aria-controls="more">Read More</button>
                             </ul>
                         </p>
                     </div>
@@ -201,6 +199,8 @@
     <script src="assets/owl-carousel/owl.carousel.js"></script>
     <?php include './include/script.php' ?>
     <?php include './include/carousel_footer_script.php' ?>
+    <?php include './include/readmore.php' ?>
+
 </body>
 
 </html>
