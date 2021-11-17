@@ -36,6 +36,17 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_4.png"></a></div>
                 <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_5.png"></a></div>
                 <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_6.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_7.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_8.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_9.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_10.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_11.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_12.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_13.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_14.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_15.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_16.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_17.png"></a></div>
             </div>
         </div>
     </div>
