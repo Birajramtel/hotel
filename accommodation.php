@@ -13,7 +13,7 @@
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
-            <img src="img/Hotel_front_about.png" class="d-block w-100" alt=" Hotel Front">
+            <img src="img/accommodation/Delux Room 1.png" class="d-block w-100" alt=" Hotel Front">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>Accommodation</b></strong> </h2>
@@ -42,7 +42,7 @@
                 the resort. Spread over an expansive area of over 20,000sq.ft. of total space, living here can give you
                 experience of home in the hills.</strong>
         </p>
-        <div class="row ml-1 d-flex justify-content-center">
+        <!-- <div class="row ml-1 d-flex justify-content-center">
             <div class="card mb-6 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
@@ -131,6 +131,38 @@
                     <button class="btn btn-lg btn-colour-1 d-sm-block d-md-none text-white mb-2 "><a href="room.php" class="text-white"> Book Now</a></button>
                 </div>
             </div>
+        </div> -->
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+                <div class="card">
+                    <img src="./img/accommodation//room_1.png" class="card-img-top" alt="Room">
+                    <h5 class="card-text para_align text-center pt-2 pb-2">
+                        <strong><u>Delux Room 1</u></strong> <br>
+                    </h5>
+                    <span class="text-align-center">The most spacious room you will ever see in our hotel. Equipped with span and warm beds</span>
+                    <a href="contact.php" class="btn btn-colour-1">Book Now</a>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <img src="./img/accommodation/room_2.png" class="card-img-top" alt="accommodation Room">
+                    <h5 class="card-text para_align text-center pt-2 pb-2">
+                        <strong><u>Delux Room 2</u></strong>
+                    </h5>
+                    <span class="text-align-center">The most spacious room you will ever see in our hotel. Equipped with span and warm beds</span>
+                    <a href="contact.php" class="btn btn-colour-1">Book Now</a>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <img src="./img/accommodation/room_3.png" class="card-img-top" alt="Room Details">
+                    <h5 class="card-text para_align text-center pt-2 pb-2">
+                        <strong><u>Standard Room</u></strong>
+                    </h5>
+                    <span class="text-align-center">The most spacious room you will ever see in our hotel. Equipped with span and warm beds</span>
+                    <a href="contact.php" class="btn btn-colour-1">Book Now</a>
+                </div>
+            </div>
         </div>
         <p class="para_align pt-5 ml-4">
             Feel the morning mist pass by your windows, so close you can almost reach out the clouds. We have well-appointed
@@ -140,36 +172,7 @@
             makers, hot water and free high-speed wireless internet. 
         </p>
     </div>
-    <div class="container mt-5 mb-5">
-        <div class="row row-cols-1 row-cols-md-3 g-4">
-            <div class="col">
-                <div class="card">
-                    <img src="./img/Room 106.png" class="card-img-top" alt="Room">
-                    <h5 class="card-text para_align text-center pt-2 pb-2">
-                        <strong><u>Normal room</u></strong>
-                    </h5>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                    <img src="./img/gallery/Accommodation room 1 1.png" class="card-img-top" alt="accommodation Room">
-                    <h5 class="card-text para_align text-center pt-2 pb-2">
-                        <strong><u>Standard room</u></strong>
-                    </h5>
-                </div>
-            </div>
-            <div class="col">
-                <div class="card">
-                    <img src="./img/Accommodation room 3.png" class="card-img-top" alt="Room Details">
-                    <h5 class="card-text para_align text-center pt-2 pb-2">
-                        <strong><u>Deluxe room</u></strong>
-                    </h5>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Accommodation Content Session Closed -->
+   <!-- Accommodation Content Session Closed -->
 
 
     <!-- Photo Session Opened -->

@@ -67,7 +67,7 @@
         </div>
     </div>
     <div class="about_hotel mb-0">
-        <img src="img/Meeting and Seminar.png" alt="Seminar Hall" class="w-100 img-fluid">
+        <img src="img/Location.png" alt="Location map" class="img-fluid">
     </div>
     <div class="container testimonial">
         <div class="row mt-5 bg_test">

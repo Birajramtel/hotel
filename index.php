@@ -89,7 +89,7 @@
                     <input type="email" class="form-control" placeholder="Email" aria-label="Email">
                 </div>
                 <div class="d-flex justify-content-center pt-3">
-                    <button type="submit" class="btn btn-light">Submit</button>
+                    <a href="mailto: resortnaava@gmail.com" class="btn btn btn-light btn-lg">Submit</a>
                 </div>
             </div>
         </form>

@@ -35,13 +35,13 @@
                 <h2 class="text-white">Contact</h2>
                 <div class="footer-social-icon">
                     <div class="single-cta">
-                        <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">example@naava.com</span>
+                        <i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">resortnaava@gmail.com</span>
                     </div>
                     <div class="single-cta">
-                        <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">+0 320 422 4254</span>
+                        <i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">986-0239993</span>
                     </div>
                     <div class="single-cta">
-                        <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Main Str Nepal</span>
+                        <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Thulogaun, Budhanilkantha</span>
                     </div>
                 </div>
             </div>

@@ -13,7 +13,7 @@
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
-            <img src="img/Hotel_front_about.png" class="d-block w-100" alt=" Hotel Front">
+            <img src="img/Natural Beauty.png" class="d-block w-100" alt=" Hotel Front">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>Explore Shivapuri</b></strong> </h2>
@@ -57,49 +57,49 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/gallery/welcome_board.png" alt="Welcome Board">
+                            <img src="./img/Explore_shivapuri/Warbler.png" alt="Warbler">
                             <div class="card-body">
-                                <h6 class="card-title text-center"><strong><u>Shivapuri</u></strong> </h6>
+                                <h6 class="card-title text-center"><strong><u>Warbler</u></strong> </h6>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/gallery/birds.png" class="" alt="Birds">
+                            <img src="./img/Explore_shivapuri/Fauna at SNNP.png" class="" alt="Fauna at SNNP">
                             <div class="card-body">
-                                <h6 class="card-title text-center"><strong><u>Birds</u></strong> </h6>
+                                <h6 class="card-title text-center"><strong><u>Fauna at SNNP</u></strong> </h6>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/gallery/deer.png" class="" alt="Deer">
+                            <img src="./img/Explore_shivapuri/Oak Rhododendron.png" class="" alt="Oak Rhododendron">
                             <div class="card-body">
-                                <h6 class="card-title text-center"><strong><u>Wild Life</u></strong> </h6>
+                                <h6 class="card-title text-center"><strong><u>Oak Rhododendron</u></strong> </h6>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/gallery/red_panda.png" class="" alt="Red Panda">
+                            <img src="./img/Explore_shivapuri/Kalij.png" class="" alt="Kalij">
                             <div class="card-body">
-                                <h6 class="card-title text-center"><strong><u>Habitat</u></strong> </h6>
+                                <h6 class="card-title text-center"><strong><u>Kalij</u></strong> </h6>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/gallery/shivapuri_view.png" alt="Shivapuri View">
+                            <img src="./img/Explore_shivapuri/goshawk.png" alt="goshawk">
                             <div class="card-body">
-                                <h6 class="card-title text-center"><strong><u>Views</u></strong> </h6>
+                                <h6 class="card-title text-center"><strong><u>Goshawk</u></strong> </h6>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/gallery/forest.png" class="" alt="Forest">
+                            <img src="./img/Explore_shivapuri/Chinkapin.png" class="" alt="Chinkapin">
                             <div class="card-body">
-                                <h6 class="card-title text-center"><strong><u>Forest</u></strong> </h6>
+                                <h6 class="card-title text-center"><strong><u>Chinkapin</u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
                 <img src="img/gallery/shivapuri_flora.jpg" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
             </div>
             <div class="col-md-6">
-                <img src="img/Teen Chuli.png" alt="Teen Chuli" class="img-fluid">
+                <img src="img/Adventure.png" alt="Adventure" class="img-fluid">
             </div>
             <div class="col-md-6">
                 <h6 class="Header_6"> <strong><b>Adventure </b> </strong> </h6>
