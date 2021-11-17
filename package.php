@@ -32,7 +32,7 @@
             <div class="row g-0 pb-2">
                 <h6 class="Header_6 text-center pt-2"><strong><b>PACKAGE 1</b></strong></h6>
                 <div class="col-md-4">
-                    <img src="img/eat_and_drink_2.png" class="img-fluid rounded-start p-2 " alt="Eat and Drink">
+                    <img src="img/packages/B&B.png" class="img-fluid rounded-start p-2 " alt="B&B">
                 </div>
                 <div class="col-md-8 pl-0">
                     <div class="card-body">
@@ -55,7 +55,7 @@
             <div class="row g-0 pb-2">
                 <h6 class="Header_6 text-center pt-2"><strong><b>PACKAGE 2</b></strong></h6>
                 <div class="col-md-4">
-                    <img src="img/eat_and_drink_3.png" class="img-fluid rounded-start p-2" alt="Eat and Drink">
+                    <img src="img/packages/Full_board.png" class="img-fluid rounded-start p-2" alt="Full Board Package">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
@@ -80,7 +80,7 @@
             <div class="row g-0 pb-2">
                 <h6 class="Header_6 text-center pt-2"><strong><b>PACKAGE 3</b></strong></h6>
                 <div class="col-md-4">
-                    <img src="img/eat_and_drink_small_1.png" class="img-fluid rounded-start p-2" alt="Eat and Drink">
+                    <img src="img/packages/Full_board_premium.png" class="img-fluid rounded-start p-2" alt="Full_Borad_Premium">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
@@ -105,7 +105,7 @@
             <div class="row g-0 pb-2">
                 <h6 class="Header_6 text-center pt-2"><strong><b>PACKAGE 4</b></strong></h6>
                 <div class="col-md-4">
-                    <img src="img/eat_and_drink_2.png" class="img-fluid rounded-start p-2" alt="Eat and Drink">
+                    <img src="img/packages/Half_board.png" class="img-fluid rounded-start p-2" alt="Half Board">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">

@@ -136,41 +136,41 @@
                 <div class="row pb-5">
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/gallery/thakali.jpg" alt="Thakali Khaja Set">
+                            <img class="card-img-top" src="img/Home_page_package/B&B.png" alt="B&B">
                             <div class="card-body">
                                 <h5 class="card-title"><strong> B&B </strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
+                                <a href="package.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/gallery/mustang_aloo.jpg" alt="Mustang Aloo">
+                            <img class="card-img-top" src="img/Home_page_package/Full_board.png" alt="Full Board">
                             <div class="card-body">
                                 <h5 class="card-title"><strong> Full Board </strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
+                                <a href="package.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/gallery/kalij.jpg" alt="Kalij">
+                            <img class="card-img-top" src="img/Home_page_package/Full_board_premium.png" alt="Full Board Premium">
                             <div class="card-body">
                                 <h5 class="card-title"><strong>Full Board Premium</strong></h5>
                                 <p class="card-text">This includes accommodation for 2 and served with continental premium breakfast in the morning.</p>
-                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
+                                <a href="package.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 mb-2 mt-5">
                         <div class="card" style="width: 23 rem;">
-                            <img class="card-img-top" src="img/gallery/Thakali_set_2.png" alt="Thakalai Khaja set 2">
+                            <img class="card-img-top" src="img/Home_page_package/Half_board.png" alt="Half Board">
                             <div class="card-body">
                                 <h5 class="card-title"><strong> Half Board </strong></h5>
                                 <p class="card-text ">This includes accommodation for 2 and served with continental breakfast in the morning.</p>
-                                <a href="room.php" class="btn btn-colour-1 float-end">Learn More</a>
+                                <a href="package.php" class="btn btn-colour-1 float-end">Learn More</a>
                             </div>
                         </div>
                     </div>

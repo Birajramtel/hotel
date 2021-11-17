@@ -13,7 +13,7 @@
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
-            <img src="img/Hotel_front_about.png" class="d-block w-100" alt=" Hotel Front">
+            <img src="img/highlights/Highlight_banner.png" class="d-block w-100" alt=" Highlight Banner Image">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>Highlight</b></strong> </h2>
@@ -39,7 +39,7 @@
         <div class="row row-cols-1 row-cols-md-2 g-4">
             <div class="col">
                 <div class="card">
-                    <img src="img/Bishnudwaar.png" class="card-img-top" alt="Bishnudwaar">
+                    <img src="img/highlights/highlights_1.png" class="card-img-top" alt="Bird watching">
                     <div class="card-body">
                         <h5 class="card-title Header_2">Bird Watching</h5>
                         <p class="card-text para_align">
@@ -61,7 +61,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                    <img src="img/Teen Chuli.png" class="card-img-top" alt="Teen Chuli">
+                    <img src="img/highlights/Hiking_and_jungle_safari.png" class="card-img-top" alt="Jungle safari Collections">
                     <div class="card-body">
                         <h5 class="card-title Header_2">Hike and Jungle Safari </h5>
                         <p class="card-text para_align">
@@ -136,7 +136,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                    <img src="img/Day Package - Picnic.png" class="card-img-top" alt="Day Package - Picnic">
+                    <img src="img/highlights/Day_package.png" class="card-img-top" alt="Day Package - Picnic">
                     <div class="card-body">
                         <h5 class="card-title Header_2">Day Package - Picnic </h5>
                         <p class="card-text para_align">
@@ -150,7 +150,7 @@
             </div>
             <div class="col">
                 <div class="card">
-                    <img src="img/Meeting and Seminar.png" class="card-img-top" alt="Meeting and Seminar">
+                    <img src="img/highlights/Seminar_and_meeting.png" class="card-img-top" alt="Meeting and Seminar">
                     <div class="card-body">
                         <h5 class="card-title Header_2">Meeting and Semina</h5>
                         <p class="card-text para_align">

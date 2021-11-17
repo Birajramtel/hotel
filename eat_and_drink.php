@@ -46,8 +46,8 @@
                 <img src="img/eat_and_drink_4.png" class="img-fluid " alt="Foods and Drinks">
             </div>
             <div class="col-md-3 col-sm-6 pr-0 pl-0 ">
-                <img src="img/eat_and_drink_5.png" class="pb-4 img-fluid" alt="Fish Items ">
-                <img src="img/eat_and_drink_6.png" class="img-fluid" alt="Fish Items">
+                <img src="img/eat_and_drink//Eat_and_drink_1.png" class="pb-4 img-fluid" alt="Eat and Drink">
+                <img src="img/eat_and_drink/Eat_and_drink_2.png" class="img-fluid" alt="Eat and Drink items">
             </div>
             <div class="col-md-6 d-none d-md-block">
                 <h2 class="Header_2"> <strong><b>Visit us to eat and Drink Fresh food</b></strong></h2>
@@ -68,7 +68,6 @@
                 </div>
                 <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
             </div>
-
         </div>
     </div>
     <!-- Food Gallery Opened -->
@@ -79,7 +78,7 @@
             <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="img/eat_and_drink_5.png" alt="Eat and Drink" class="img-fluid rounded-start">
+                        <img src="img/eat_and_drink/Eat_and_drink_3.png" alt="Eat and Drink" class="img-fluid rounded-start">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
@@ -93,12 +92,12 @@
             <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="img/eat_and_drink_3.png" alt="Eat and Drink" class="img-fluid rounded-start">
+                        <img src="img/eat_and_drink/Eat_and_drink_4.png" alt="Eat and Drink" class="img-fluid rounded-start">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
                             <h6 class="Header_6 card-title"><strong>FOOD</strong> </h6>
-                            <h6 class="card-title"><strong>Fresh fish and onions</strong></h6>
+                            <h6 class="card-title"><strong>Chicken Biryani</strong></h6>
                             <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you familly</p>
                         </div>
                     </div>
@@ -107,12 +106,12 @@
             <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="img/eat_and_drink_6.png" alt="Eat and Drink" class="img-fluid rounded-start">
+                        <img src="img/eat_and_drink/Eat_and_drink_5.png" alt="Eat and Drink" class="img-fluid rounded-start">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
                             <h6 class="Header_6 card-title"><strong>FOOD</strong> </h6>
-                            <h6 class="card-title"><strong>Mustang Aloo</strong></h6>
+                            <h6 class="card-title"><strong>Chicken Chilly</strong></h6>
                             <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you familly</p>
                         </div>
                     </div>
