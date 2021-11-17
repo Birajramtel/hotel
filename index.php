@@ -3,7 +3,7 @@
 
 <head>
     <title>Naava Hotel</title>
-    <?php include './include/head.php' ?>
+    <?php $page = "index"; include './include/head.php' ?>
 </head>
 
 <body>

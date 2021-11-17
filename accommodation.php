@@ -10,7 +10,7 @@
 <body>
     <!-- Header Opened -->
     <!-- NavBar started -->
-    <?php include('include/header.php') ?>
+    <?php $page = "accommodation"; include('include/header.php') ?>
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
