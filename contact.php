@@ -6,6 +6,7 @@
     <title>Naava Hotel</title>
     <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" type="image/x-icon" href="./img/fav_icon.png">
 </head>
 
 <body>
@@ -15,7 +16,7 @@
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
-            <img src="img/Hotel_front_about.png" class="d-block w-100" alt=" Hotel Front">
+            <img src="img/Contact_us 2.png" class="d-block w-100" alt=" Contact Us">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>Contact</b></strong> </h2>

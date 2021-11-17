@@ -48,7 +48,8 @@
         </div>
         <div class="row mt-5">
             <div class="col-6">
-                <p class="text-white float-start">Copyright &copy; 2018, All Right Reserved SewaTech</p>
+                <p class="text-white float-start">Copyright &copy; 2018, All Right Reserved Naava resort and retreat </p>
+                <p class="text-white float-start">&nbsp; | Powered by SewaTech</p>
             </div>
             <div class="col-6">
                 <a class="footer_link float-end" href="#">https://naavaresort.com.np</a>
