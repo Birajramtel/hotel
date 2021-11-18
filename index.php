@@ -9,7 +9,7 @@
 <body>
     <!-- Header Opened -->
     <!-- NavBar started -->
-    <?php include './include/header.php' ?>
+    <?php $page = "index"; include './include/header.php' ?>
     <!-- Banner Image  -->
     <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
         
@@ -187,7 +187,7 @@
                     <h2 class="Header_2"> <strong><b>What you get <br>In a nutshell</b> </strong></h2>
                 </div>
                 <div class="col-md-6 col-sm-12 col-xm-4 mt-auto mb-auto">
-                    <a href="explore_shivapuri.php">
+                    <a href="highlight.php">
                         <button class="btn col-5 btn-colour-1 btn-lg float-md-end mb-2">Explore</button>
                     </a>
                 </div>
@@ -195,7 +195,7 @@
             <div class="row row-cols-1 row-cols-md-2 g-4">
                 <div class="col-md-6">
                     <div class="card">
-                        <img src="img/Bishnudwaar.png" class="card-img-top" alt="Bishnudwaar">
+                        <img src="img/highlights/highlights_1.png" class="card-img-top" alt="Bird Watching">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Bird Watching</h5>
                             <p class="card-text para_align">
@@ -209,7 +209,7 @@
                 </div>
                 <div class="col-md-6 ">
                     <div class="card">
-                        <img src="img/Teen Chuli.png" class="card-img-top" alt="Teen Chuli">
+                        <img src="img/highlights/Hiking_and_jungle_safari.png" class="card-img-top" alt="Hiking and Jungle Safari">
                         <div class="card-body">
                             <h5 class="card-title Header_2">Hike and Jungle Safari </h5>
                             <p class="card-text para_align pb-0">
