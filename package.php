@@ -38,7 +38,8 @@
                     <div class="card-body">
                         <h5 class="card-title"><b>B&B</b></h5>
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast.</p>
-                        <div class="collapse multi-collapse" id="multiCollapseExample1">
+                        <span id="dots1"></span>
+                        <div class="collapse multi-collapse" id="more1">
                             <p class="para_align">
                                 Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
                                 dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
@@ -46,7 +47,7 @@
                                 you an experience unlike any other.
                             </p>
                         </div>
-                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample1" aria-expanded="false" aria-controls="multiCollapseExample1">Read More</button>
+                        <button class="btn btn-colour-1 mb-2" onclick="myFunction1()" id="myBtn1" type="button" data-bs-toggle="collapse" data-bs-target="#more1" aria-expanded="false" aria-controls="more1">Read More</button>
                     </div>
                 </div>
             </div>
@@ -63,7 +64,8 @@
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast in the morning,
                             Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meals.
                         </p>
-                        <div class="collapse multi-collapse" id="multiCollapseExample2">
+                        <span id="dots2"></span>
+                        <div class="collapse multi-collapse" id="more2">
                             <p class="para_align">
                                 Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
                                 dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
@@ -71,7 +73,7 @@
                                 you an experience unlike any other.
                             </p>
                         </div>
-                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
+                        <button class="btn btn-colour-1 mb-2" onclick="myFunction2()" id="myBtn2" type="button" data-bs-toggle="collapse" data-bs-target="#more2" aria-expanded="false" aria-controls="more2">Read More</button>
                     </div>
                 </div>
             </div>
@@ -87,8 +89,10 @@
                         <h5 class="card-title"><b>Full Board Premium</b></h5>
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental premium breakfast in the morning,
                             Thakali meal set for lunch and dinner with the variation of chicken and mutton for two different meal.
-                            In addition to this six item with three vegetarian and three non-vegetarian snacks will be served in the evening.</p>
-                        <div class="collapse multi-collapse" id="multiCollapseExample3">
+                            In addition to this six item with three vegetarian and three non-vegetarian snacks will be served in the evening.
+                        </p>
+                        <span id="dots3"></span>
+                        <div class="collapse multi-collapse" id="more3">
                             <p class="para_align">
                                 Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
                                 dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
@@ -96,7 +100,7 @@
                                 you an experience unlike any other.
                             </p>
                         </div>
-                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample3" aria-expanded="false" aria-controls="multiCollapseExample3">Read More</button>
+                        <button class="btn btn-colour-1 mb-2" onclick="myFunction_3()" id="myBtn3" type="button" data-bs-toggle="collapse" data-bs-target="#more3" aria-expanded="false" aria-controls="more3">Read More</button>    
                     </div>
                 </div>
             </div>
@@ -113,8 +117,10 @@
                         <p class="card-text para_align">This includes accommodation for 2 and served with continental breakfast
                             and one time Thakali meal set. This package is appropriate for those who arrive at the resort in the
                             evening and enjoy the evening at the resort and the next morning have a walk around the nearby place
-                            of the national park or the monasteries nearby, have breakfast and depart.</p>
-                        <div class="collapse multi-collapse" id="multiCollapseExample4">
+                            of the national park or the monasteries nearby, have breakfast and depart.
+                            <span id="dots4"></span>
+                        </p>
+                        <div class="collapse multi-collapse" id="more4">
                             <p class="para_align">
                                 Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
                                 dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
@@ -122,7 +128,7 @@
                                 you an experience unlike any other.
                             </p>
                         </div>
-                        <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample4" aria-expanded="false" aria-controls="multiCollapseExample4">Read More</button>
+                        <button class="btn btn-colour-1 mb-2" onclick="myFunction4()" id="myBtn4" type="button" data-bs-toggle="collapse" data-bs-target="#more4" aria-expanded="false" aria-controls="more4">Read More</button>    
                     </div>
                 </div>
             </div>
@@ -188,6 +194,11 @@
     <script src="assets/owl-carousel/owl.carousel.js"></script>
     <?php include './include/script.php' ?>
     <?php include './include/carousel_footer_script.php' ?>
+    <?php include './include/readmore.php' ?>
+    <?php include './include/readmore_1.php' ?>
+    <?php include './include/readmore_2.php' ?>
+    <?php include './include/readmore_3.php' ?>
+    <?php include './include/readmore_4.php' ?>
 
 
 </body>

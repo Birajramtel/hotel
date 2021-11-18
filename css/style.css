@@ -13,7 +13,12 @@ body {
 .navbar-dark .navbar-nav .show > .nav-link {
   color: #dda140;
 }
-
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+.navbar-dark .navbar-nav .nav-link.is-active {
+  color: #dda140;
+}
 /* Header 1 Text */
 .header_1 {
   font-size: 62px;

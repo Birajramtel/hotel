@@ -56,17 +56,17 @@
                         At Naava, we serve you high quality food with variety and fresh local ingredients.
                         We serve multi-cuisine food menu with authentic Thakali meal set, Nepali food,
                         Indian dishes, popular Chinese and Indian dishes with local and imported beverages.
+                        <span id="dots"></span>
                     </strong>
                 </p>
-                <div class="collapse multi-collapse" id="multiCollapseExample2">
+                <div class="collapse multi-collapse" id="more">
                     <p class="para_align">
                         Hikers and nature lovers can hike all the way up to Shivapuri hill or book a jeep safari with us to explore the beautiful,
                         dense forests at Shivapuri. With an eagle eye view of Kathmandu Valley, beautiful Langtang Himalayas, lush rhododendron
-                        forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers
-                        you an experience unlike any other.
+                        forests as well as prestigious religious sites like Bagdwar and Bishnudwar, the Shivapuri hike oﬀers you an experience unlike any other.
                     </p>
                 </div>
-                <button class="btn btn-colour-1 mb-2" type="button" data-bs-toggle="collapse" data-bs-target="#multiCollapseExample2" aria-expanded="false" aria-controls="multiCollapseExample2">Read More</button>
+                <button class="btn btn-colour-1 mb-2" onclick="myFunction()" id="myBtn" type="button" data-bs-toggle="collapse" data-bs-target="#more" aria-expanded="false" aria-controls="more">Read More</button>
             </div>
         </div>
     </div>
@@ -167,6 +167,7 @@
     <script src="assets/owl-carousel/owl.carousel.js"></script>
     <?php include './include/script.php' ?>
     <?php include './include/carousel_footer_script.php' ?>
+    <?php include './include/readmore.php' ?>
 
 </body>
 
