@@ -60,10 +60,10 @@
     <div class="container footer-social-icon pb-2">
         <div class="row mt-5 mb-2">
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                <i class="far fa-envelope-open"></i>&nbsp;<span class="pt-2"><strong>resortnaava@gmail.com</strong></span>
+                <a href= "mailto: resortnaava@gmail.com"><i class="far fa-envelope-open"></i>&nbsp;<span class="pt-2"><strong class="text-dark">resortnaava@gmail.com</strong></span></a>
             </div>
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                <i class="fas fa-phone-alt"></i>&nbsp;<span class="pt-2"><strong>986-0239993</strong></span>
+                <a href="tel:9860239993"><i class="fas fa-phone-alt"></i>&nbsp;<span class="pt-2"><strong class="text-dark">986-0239993</strong></span></a>
             </div>
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
                 <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="pt-2"><strong>Thulogaun, Budhanilkantha</strong></span>
