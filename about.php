@@ -10,7 +10,7 @@
     <!-- Header Opened -->
     <!-- NavBar started -->
     
-    <?php $page = "index"; include('include/header.php') ?>
+    <?php $page = "about"; include('include/header.php') ?>
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
