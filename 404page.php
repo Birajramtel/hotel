@@ -22,11 +22,16 @@
     <!-- Header Closed -->
 
     <!-- Contact Contain Session Opened -->
-    <div class="container mt-5 mb-5 d-flex justify-content-center">
+    <div class="container mt -5 d-flex justify-content-center">
         <div>
             <h1>404 page not found</h1>
-            <a href="index.php">Back to Home</a>
         </div>
+    </div>
+    <div class="container mb-5 d-flex justify-content-center">
+        <div>
+            <a class="btn btn-primary" href="index.php">Back to Home</a>
+        </div>
+        <!-- <h1>404 page not found</h1> -->
     </div>
 
     <!-- Contact Contain Session Closed -->
