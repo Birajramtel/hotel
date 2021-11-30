@@ -14,7 +14,7 @@
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
-            <img src="img/accommodation/Delux Room 1.png" class="d-block w-100" alt=" Hotel Front">
+            <img src="img/accommodation/Delux Room 2.png" class="d-block w-100" alt=" Hotel Front">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>Accommodation</b></strong> </h2>
