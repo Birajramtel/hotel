@@ -85,7 +85,7 @@
                         <div class="card-body">
                             <h6 class="Header_6 card-title"><strong>FOOD</strong> </h6>
                             <h6 class="card-title"><strong>Thakali Khana set</strong></h6>
-                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you familly</p>
+                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you family</p>
                         </div>
                     </div>
                 </div>
@@ -99,7 +99,7 @@
                         <div class="card-body">
                             <h6 class="Header_6 card-title"><strong>FOOD</strong> </h6>
                             <h6 class="card-title"><strong>Chicken Biryani</strong></h6>
-                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you familly</p>
+                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you family</p>
                         </div>
                     </div>
                 </div>
@@ -113,7 +113,7 @@
                         <div class="card-body">
                             <h6 class="Header_6 card-title"><strong>FOOD</strong> </h6>
                             <h6 class="card-title"><strong>Chicken Chilly</strong></h6>
-                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you familly</p>
+                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you family</p>
                         </div>
                     </div>
                 </div>
@@ -121,13 +121,13 @@
             <div class="card mb-6 col-sm-12 m-2" style="max-width: 540px;">
                 <div class="row g-0">
                     <div class="col-md-4">
-                        <img src="img/eat_and_drink_7.png" alt="Eat and Drink" class="img-fluid rounded-start">
+                        <img src="img/eat_and_drink/Eat_and_drink_6.png" alt="Eat and Drink" class="img-fluid rounded-start">
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
                             <h6 class="Header_6 card-title"><strong>FOOD</strong> </h6>
-                            <h6 class="card-title"><strong>Kalij Meat</strong></h6>
-                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you familly</p>
+                            <h6 class="card-title"><strong>Mustang Aloo</strong></h6>
+                            <p class="card-text">Fresh food directly from our restaurant ready coocked for you and you family</p>
                         </div>
                     </div>
                 </div>

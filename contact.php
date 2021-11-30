@@ -60,21 +60,29 @@
     <div class="container footer-social-icon pb-2">
         <div class="row mt-5 mb-2">
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                <a href= "mailto: resortnaava@gmail.com"><i class="far fa-envelope-open"></i>&nbsp;<span class="pt-2"><strong class="text-dark">resortnaava@gmail.com</strong></span></a>
+                 <i class="far fa-envelope-open"></i>
+                <div>
+                    <a href= "mailto: resortnaava@gmail.com">
+                        <span class="p-3"><strong class="text-dark">resortnaava@gmail.com</strong></span>
+                    </a>
+                    <a href= "mailto: info@naavaresort.com.np">
+                        <span class="p-3"><strong class="text-dark">info@naavaresort.com.np</strong></span>
+                    </a>
+                </div>
             </div>
-            <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
+            <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-start">
                 <a href="tel:9860239993"><i class="fas fa-phone-alt"></i>&nbsp;<span class="pt-2"><strong class="text-dark">986-0239993</strong></span></a>
             </div>
-            <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="pt-2"><strong>Thulogaun, Budhanilkantha</strong></span>
+            <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-start">
+            <a href="https://goo.gl/maps/hDyLdheNnbfPhsNb9"><i class="fas fa-map-marker-alt"></i>&nbsp;<span class="pt-2"><strong class="text-dark">Thulogaun, Budhanilkantha</strong></span></a>
             </div>
         </div>
     </div>
 
     <!-- Contact Contain Session Closed -->
-    <div class="mb-5 mt-5">
+    <div class="container mb-5 mt-5">
         <!-- <img src="img/Location.png" alt="Location map" class="img-fluid"> -->
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3529.6305497244016!2d85.36073161493283!3d27.79035568275767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1dc9a2be251b%3A0x69731610715f7af2!2sNaava%20Resort%20%26%20Retreat!5e0!3m2!1sen!2snp!4v1638254738424!5m2!1sen!2snp" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3529.6305497244016!2d85.36073161493283!3d27.79035568275767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1dc9a2be251b%3A0x69731610715f7af2!2sNaava%20Resort%20%26%20Retreat!5e0!3m2!1sen!2snp!4v1638254738424!5m2!1sen!2snp" width="100%" height="525" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
 
     <!-- Photo Session Opened -->
