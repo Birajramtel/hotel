@@ -55,20 +55,62 @@
                 <button class="btn btn-colour-1 mb-2" onclick="myFunction()" id="myBtn" type="button" data-bs-toggle="collapse" data-bs-target="#more" aria-expanded="false" aria-controls="more">Read More</button>
             </div>
             <div class="col-md-6 col-sm-12 pb-2">
-                <div class="row">
+                <!-- <div class="row">
                     <div class="col-md-6 col-sm-6 d-flex justify-content-center">
                         <img src="img/Hotel Location 1.png" class="img-fluid p-1" alt="Hotel Location">
                     </div>
                     <div class="col-md-6 col-sm-6 d-flex justify-content-center">
                         <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Hotel Location">
                     </div>
+                    <div class="col-md-6 col-sm-6 d-flex justify-content-center">
+                        <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Hotel Location">
+                    </div>
+                    <div class="col-md-6 col-sm-6 d-flex justify-content-center">
+                        <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Hotel Location">
+                    </div>
+                </div> -->
+                <!-- <img src="img/About Us_location.png" class="img-fluid" alt="Hotel Location" width="100%"> -->
+                
+                <div class="row">
+                    <div class="col-sm-6 col-xm-6">
+                        <div class="card">
+                            <img src="img/Hotel Location 1.png" class="img-fluid p-1" alt="Hotel Location">
+                            <!-- <img src="./img/gallery/Naagi Gumba.png" class="" alt="Naagi Gumba">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Naagi Gumba</u></strong></h6>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xm-6">
+                        <div class="card d-none d-sm-block">
+                            <img src="img/Hotel_Location 2.png" class="img-fluid p-1" alt="Hotel Location">
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xm-6">
+                        <div class="card d-none d-sm-block">
+                            <img src="img/About Us_location.png" class="img-fluid p-1" alt="Hotel Location">
+                            <!-- <img src="./img/gallery/Bishnudwaar 1.png" alt="Bishnudwaar">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Bishnudwaar</u></strong> </h6>
+                            </div> -->
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-xm-6">
+                        <div class="card">
+                            <img src="img/About Us_location_2.png" class="img-fluid p-1" alt="Hotel Location">
+                            <!-- <img src="./img/gallery/Budhanilkantha.png" alt="budhanilkantha">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Budhanilkantha</u></strong> </h6>
+                            </div> -->
+                        </div>
+                    </div>
                 </div>
-                <img src="img/Hotel_Location 3.png" class="img-fluid" alt="Hotel Location" width="100%">
             </div>
         </div>
     </div>
-    <div class="about_hotel mb-0">
-        <img src="img/Location.png" alt="Location map" class="img-fluid">
+    <div class="mb-0 mt-5">
+        <!-- <img src="img/Location.png" alt="Location map" class="img-fluid"> -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3529.6305497244016!2d85.36073161493283!3d27.79035568275767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1dc9a2be251b%3A0x69731610715f7af2!2sNaava%20Resort%20%26%20Retreat!5e0!3m2!1sen!2snp!4v1638254738424!5m2!1sen!2snp" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
     <div class="container testimonial">
         <div class="row mt-5 bg_test">
