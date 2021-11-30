@@ -33,14 +33,18 @@
             <div class="col-md-3 col-sm-6 col-xm-12 mt-3">
                 <h2 class="text-white">Contact</h2>
                 <div class="footer-social-icon">
-                    <div class="single-cta">
-                        <a href="mailto: resortnaava@gmail.com"><i class="far fa-envelope-open"></i>&nbsp;<span class="text-white">resortnaava@gmail.com</span></a>
+                    <div class="single-cta d-flex">
+                        <i class="far fa-envelope"></i>
+                        <div>
+                            <a href="mailto: resortnaava@gmail.com"><span class="text-white p-4">resortnaava@gmail.com</span></a>
+                            <a href="mailto: info@naavaresort.com.np"><span class="text-white p-4">info@naavaresort.com.np</span></a>
+                        </div>
                     </div>
                     <div class="single-cta">
-                        <a href="tel:9860239993"><i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white">986-0239993</span></a>
+                        <a href="tel:9860239993"><i class="fas fa-phone-alt"></i>&nbsp;<span class="text-white pl-2">986-0239993</span></a>
                     </div>
                     <div class="single-cta">
-                        <i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Thulogaun, Budhanilkantha</span>
+                        <a href="https://goo.gl/maps/hDyLdheNnbfPhsNb9"><i class="fas fa-map-marker-alt"></i>&nbsp;<span class="text-white">Thulogaun, Budhanilkantha</span></a>
                     </div>
                 </div>
             </div>
