@@ -38,7 +38,7 @@
         <div class="row">
             <div class="col-md-6 mb-2">
                 <div class="col-md-6 pb-1 d-block d-md-none">
-                    <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+                    <img src="img/Explore_shivapuri/natural_beauty.png" alt="Natural beauty" class="img-fluid pl-5 w-100">
                 </div>
                 <h6 class="Header_6"> <strong><b> Natural Beauty</b> </strong> </h6>
                 <p class="para_align">
@@ -51,12 +51,12 @@
                 </p>
             </div>
             <div class="col-md-6">
-                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
+                <img src="img/Explore_shivapuri/natural_beauty.png" alt="Natural beauty " class="img-fluid pl-5 w-100 d-none d-md-block">
             </div>
             <div class="col-md-6">
                 <div class="row">
                     <div class="col-sm-6">
-                        <div class="card">
+                        <div class="card w-40">
                             <img src="./img/Explore_shivapuri/Warbler.png" alt="Warbler">
                             <div class="card-body">
                                 <h6 class="card-title text-center"><strong><u>Warbler</u></strong> </h6>
@@ -89,9 +89,9 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/Explore_shivapuri/goshawk.png" alt="goshawk">
+                            <img src="./img/Explore_shivapuri/Leopard.png" alt="Leopard">
                             <div class="card-body">
-                                <h6 class="card-title text-center"><strong><u>Goshawk</u></strong> </h6>
+                                <h6 class="card-title text-center"><strong><u>Leopard</u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -100,6 +100,22 @@
                             <img src="./img/Explore_shivapuri/Chinkapin.png" class="" alt="Chinkapin">
                             <div class="card-body">
                                 <h6 class="card-title text-center"><strong><u>Chinkapin</u></strong> </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <img src="./img/Explore_shivapuri/goshawk.png" class="" alt="Goshawk">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Goshawk</u></strong> </h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <div class="card">
+                            <img src="./img/Explore_shivapuri/Barking Deer.png" alt="Barking Deer">
+                            <div class="card-body">
+                                <h6 class="card-title text-center"><strong><u>Barking Deer </u></strong> </h6>
                             </div>
                         </div>
                     </div>
@@ -114,10 +130,10 @@
                     major forest types viz
                 </p>
                 <ul style="list-style-type: circle;">
-                    <li>Lower mixed hardwood forests</li>
-                    <li>Chirpine forests</li>
-                    <li>Oak forests</li>
-                    <li>Upper mixed hardwood forests</li>
+                    <li class="mt-3"><strong> Lower mixed hardwood forests </strong></li>
+                    <li class="mt-3"><strong> Chirpine forests </strong></li>
+                    <li class="mt-3"><strong> Oak forests </strong></li>
+                    <li class="mt-3"><strong> Upper mixed hardwood forests </strong></li>
                 </ul>
                 <p class="para_align">
                     Clouded leopard, pangolin, Assamese monkey and leopard cat are the protected mammals 
@@ -161,7 +177,7 @@
             </div>
             <div class="col-md-6">
                 <div class="col-md-6 pb-1 d-block d-md-none">
-                    <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100">
+                    <img src="img/Explore_shivapuri/research.png" alt="Research" class="img-fluid pl-5 w-100">
                 </div>
                 <h6 class="Header_6"><strong><b>Research and study</b></strong></h6>
                 <p class="para_align">
@@ -178,8 +194,8 @@
                     Nagarjun national park.
                 </p>
             </div>
-            <div class="col-md-6">
-                <img src="img/Bishnudwaar.png" alt="bishnudwaar" class="img-fluid pl-5 w-100 d-none d-md-block">
+            <div class="col-md-6 mt-2">
+                <img src="img/Explore_shivapuri/research.png" alt="Research" class="img-fluid pl-5 w-100 d-none d-md-block">
             </div>
             <div class="col-md-6">
                 <!-- <img src="img/gallery/Gallery_3.png" alt="Teen Chuli" class="img-fluid"> -->
@@ -211,7 +227,7 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="card">
-                            <img src="./img/gallery/budhanilkantha.png" alt="budhanilkantha">
+                            <img src="./img/gallery/Budhanilkantha.png" alt="budhanilkantha">
                             <div class="card-body">
                                 <h6 class="card-title text-center"><strong><u>Budhanilkantha</u></strong> </h6>
                             </div>
