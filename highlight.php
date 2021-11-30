@@ -152,7 +152,7 @@
                 <div class="card">
                     <img src="img/highlights/Seminar_and_meeting.png" class="card-img-top" alt="Meeting and Seminar">
                     <div class="card-body">
-                        <h5 class="card-title Header_2">Meeting and Semina</h5>
+                        <h5 class="card-title Header_2">Meeting and Seminar</h5>
                         <p class="card-text para_align">
                             Imagine holding a most productive workshop or a seminar, or even just
                             a brainstorming session, in a fresh, natural environment that's so
