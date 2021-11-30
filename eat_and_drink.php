@@ -13,7 +13,8 @@
     <!-- Banner Image  -->
     <div class="about_cover">
         <div class="about_image">
-            <img src="img/eat_and_drink_banner.png" class="d-block w-100" alt=" Hotel Front">
+            <!-- <img src="img/eat_and_drink_banner.png" class="d-block w-100" alt=" Eat and Drink"> -->
+            <img src="img/eat_and_drink/banner.png" class="d-block w-100" alt=" Eat and Drink">
         </div>
         <div class="container about_breadcrumb d-none d-md-block">
             <h2 class="header_2 text-white"><strong><b>Eat And Drink</b></strong> </h2>
