@@ -13,6 +13,9 @@
         <img src="img/Bed_final.png" class="float-right" alt="Hotel Bed">
     </div>
     <div class="item">
+        <img src="img/home_final.png" class="float-right" alt="Home Final">
+    </div>
+    <div class="item">
         <img src="img/Seminar_final.png" class="float-right" alt="Seminar Hall">
     </div>
 </div>
