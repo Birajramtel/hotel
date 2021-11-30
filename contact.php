@@ -72,7 +72,10 @@
     </div>
 
     <!-- Contact Contain Session Closed -->
-
+    <div class="mb-5 mt-5">
+        <!-- <img src="img/Location.png" alt="Location map" class="img-fluid"> -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3529.6305497244016!2d85.36073161493283!3d27.79035568275767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1dc9a2be251b%3A0x69731610715f7af2!2sNaava%20Resort%20%26%20Retreat!5e0!3m2!1sen!2snp!4v1638254738424!5m2!1sen!2snp" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
 
     <!-- Photo Session Opened -->
     <?php include './include/carousel_footer.php' ?>
