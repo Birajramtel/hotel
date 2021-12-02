@@ -3,7 +3,7 @@
 
 <head>
     <?php include './include/head.php' ?>
-    <title>Naava Hotel</title>
+    <title>Naava Resort | Gallery</title>
 </head>
 
 <body>
@@ -47,6 +47,7 @@
                 <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_15.png"></a></div>
                 <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_16.png"></a></div>
                 <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_17.png"></a></div>
+                <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="#" data-lightbox="photos"><img class="img-fluid" src="img/gallery/Gallery_18.png"></a></div>
             </div>
         </div>
     </div>

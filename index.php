@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Naava Hotel</title>
+    <title>Naava Resort</title>
     <?php $page = "index"; include './include/head.php' ?>
 </head>
 
@@ -122,7 +122,7 @@
                 </div>
                 <div class="col-md-6 col-sm-12 m-0">
                     <!--  -->
-                    <img src="img/Hotel_Location 3.png" class="img-fluid p-1" alt="Hotel Location" width="100%">
+                    <img src="img/Hotel_Location 4.png" class="img-fluid p-1" alt="Hotel Location" width="100%">
                 </div>
             </div>
         </div>
